@@ -1,4 +1,0 @@
-# Yelp API Key
-yelpapi_key = "O74YWujyjSMrWCGZRhkDy7pNK9QCV82SCQ5J4J35PVyRR0efUf6iGhuutePOY2CsGSZ5eGP_LpgA29IJjJUlKfRaU_HPTnA98odhK7XWrKJ3VJGist9Jsh2ck5HhY3Yx"
-
-client_id = "ak6oXUpa8ll3nyW5JrqaAA"
