@@ -1,0 +1,1001 @@
+Restaurant Name,Address,Category,Rating,Number of Reviews,Price($),Price(1-5),Latitude,Longitude
+The Flying Pig,1168 Hamilton Street,Canadian (New),4.0,1247,$$,2,49.27501,-123.122
+Kosoo,1128 Robson Street,Korean,4.5,69,$$,2,49.28494,-123.12592
+Fat Mao Noodles,938 Helmcken Street,Noodles,4.5,27,,0,49.2799016,-123.1272458
+Miku,200 Granville Street,Japanese,4.5,2107,$$$,3,49.28691753455261,-123.11276314110472
+Kingyo,871 Denman Street,Japanese,4.5,1012,$$,2,49.29061,-123.13714
+Dinesty Dumpling House,1719 Robson Street,Chinese,4.0,900,$$,2,49.2908176,-123.1343912
+Guu with Garlic,1698 Robson Street,Japanese,4.5,1021,$$,2,49.290249,-123.1338142
+Saku,1588 Robson Street,Japanese,4.5,307,$$,2,49.289254,-123.1323215264761
+Twisted Fork,213 Carral Street,French,4.0,1091,$$,2,49.283194,-123.104445
+Seaport City Seafood Restaurant,2425 Cambie Street,Dim Sum,5.0,6,,0,49.263921119674905,-123.115152
+Fable Kitchen,1944 W 4th Avenue,Canadian (New),4.5,752,$$,2,49.2679331,-123.149019
+Kokoro Tokyo Mazesoba,551 Seymour Street,Japanese,4.0,428,$$,2,49.2833927,-123.115078
+Medina Cafe,780 Richards Street,Breakfast & Brunch,4.0,2540,$$,2,49.2804429972571,-123.117036269849
+Phnom Penh,244 E Georgia Street,Cambodian,4.0,1535,$$,2,49.278431,-123.098205
+Chambar,568 Beatty Street,Belgian,4.0,1520,$$$,3,49.2801460007961,-123.109925328073
+Manoush'eh,620 Davie Street,Mediterranean,5.0,222,$,1,49.27667072314417,-123.12570086148997
+Happy Noodle House,630 Davie Street,Dim Sum,4.5,60,,0,49.27664,-123.12578
+Forage,1300 Robson Street,Canadian (New),4.0,690,$$,2,49.28707,-123.12925
+Jingle Bao,774 Denman Street,Asian Fusion,4.0,120,$$,2,49.291609,-123.134917
+Fanny Bay Oyster Bar & Shellfish Market,762 Cambie St,Seafood,4.5,696,$$,2,49.2787525,-123.1138689
+Hello Nori,1165 Robson Street,Japanese,4.5,156,$$,2,49.2857029,-123.1262438
+Jam Cafe on Beatty,556 Beatty Street,Breakfast & Brunch,4.5,1298,$$,2,49.2802586,-123.1096376
+Fat Boy Kitchen,6943 Victoria Drive,Hong Kong Style Cafe,4.5,18,,0,49.2209419,-123.0662599
+Saku,548 W Broadway,Japanese,4.0,192,$$,2,49.2631251,-123.1166034
+Tavola,1829 Robson Street,Italian,4.5,361,$$$,3,49.2918164,-123.1357186
+OEB Breakfast Co. Yaletown,1137 Marinaside Crescent,Breakfast & Brunch,4.5,662,$$,2,49.2734341,-123.1192724
+Cactus Club Cafe,1085 Canada Place,Canadian (New),4.0,789,$$,2,49.2895176422553,-123.11810777487139
+Chef Hung,990 Smithe Street,Taiwanese,4.0,24,,0,49.28199,-123.12424
+Chinatown BBQ,130 E Pender Street,Chinese,4.5,235,$$,2,49.280294,-123.1015
+Blue Water Cafe,1095 Hamilton St,Seafood,4.5,1034,$$$$,4,49.2761945,-123.1209935
+Raisu,2340 W 4th Avenue,Japanese,4.0,404,$$,2,49.2679990419609,-123.158381134272
+Shiok Singapore Cuisine,1716 Kingsway,Singaporean,4.0,97,$$,2,49.2469321,-123.0693059
+Kishimoto Japanese Kitchen,2054 Commercial Drive,Japanese,4.5,505,$$,2,49.2665099,-123.06935
+Lupo,869 Hamilton Street,Italian,4.5,431,$$$,3,49.27823,-123.1174
+Alibi Room,157 Alexander Street,Pubs,4.5,563,$$,2,49.284201944511,-123.1001915385
+Joe Fortes Seafood & Chop House,777 Thurlow Street,Seafood,4.0,1203,$$$,3,49.28493,-123.12473
+Botanist,1038 Canada Place,Canadian (New),4.0,347,$$$,3,49.2883099,-123.1167271
+JOEY Burrard,820 Burrard St,Canadian (New),4.0,529,$$,2,49.2827851242953,-123.12316775322
+Bread x Butter Cafe,140-925 West Georgia Street,Cafes,4.0,35,,0,49.2841611,-123.1199654
+Linh Cafe,1428 Granville Street,Vietnamese,4.0,279,$$,2,49.27465692280362,-123.12954135459871
+Zefferelli's,1136 Robson Street,Italian,4.0,472,$$,2,49.28504,-123.1261
+Fritz European Fry House,718 Davie Street,Fast Food,4.0,789,$,1,49.2772045,-123.1265253
+Marulilu Cafe,451 W Broadway,Cafes,4.0,283,$$,2,49.26338,-123.11415
+Uma Sushi,450 W 8th Avenue,Japanese,4.5,109,$$$,3,49.2638048,-123.1137294
+Black Rice Izakaya,782 Cambie Street,Japanese,4.0,285,$$,2,49.278444,-123.114329
+Ask For Luigi,305 Alexander Street,Italian,4.0,474,$$,2,49.2844485,-123.0976786
+Wabukuro,660 Abbott Street,Japanese,4.5,7,,0,49.27916,-123.10704
+Ramen Danbo,1333 Robson Street,Ramen,4.5,540,$$,2,49.2874959131639,-123.128934167326
+Kamei on Broadway,601 W Broadway,Japanese,4.0,8,,0,49.263643,-123.118152
+The Red Accordion,1616 Alberni Street,Cocktail Bars,4.5,59,$$,2,49.29025,-123.131768
+Bao Bei Chinese Brasserie,163 Keefer Street,Chinese,4.0,401,$$$,3,49.2796095312486,-123.100574596039
+Tendon Kohaku,840 Howe Street,Japanese,4.0,72,$$,2,49.28107123873706,-123.12179426645872
+AnnaLena,1809 W 1st Avenue,Canadian (New),4.5,334,$$$$,4,49.2708261,-123.1467714
+Cardero's Restaurant & Marine Pub,1583 Coal Harbour Quay,Seafood,4.0,615,$$$,3,49.2914561357511,-123.127575841549
+Sula,4172 Main Street,Indian,4.5,82,$$,2,49.2479405,-123.1007241
+Anh and Chi,3388 Main Street,Vietnamese,4.0,586,$$,2,49.2550314422938,-123.100882202153
+Mumu Kitchen,1738 Davie Street,Korean,4.0,23,,0,49.2865679,-123.1410355
+Burgoo Bistro,1100 Burrard Street,Comfort Food,4.0,162,$$,2,49.27968,-123.12763
+Alouette Bistro,567 Hornby Street,French,4.0,22,,0,49.2853,-123.11829
+Nightingale,1017 West Hastings Street,Live/Raw Food,4.0,451,$$$,3,49.2874110331456,-123.117770967577
+Hokkaido Ramen Santouka,558 W Broadway,Noodles,4.0,220,$$,2,49.263127,-123.1168917
+Mott 32,1161 W Georgia Street,Chinese,4.0,164,$$$$,4,49.2868644189919,-123.12453512818163
+La Taqueria Pinche Taco Shop,2450 Yukon Street,Mexican,4.0,679,$$,2,49.263559,-123.112736
+Lunch Lady,1046 Commercial Drive,Vietnamese,4.0,166,$$,2,49.27497,-123.06915
+Heritage Asian Eatery,382 W Broadway,Pan Asian,4.0,87,$$,2,49.26287,-123.11247
+The Mackenzie Room,415 Powell Street,Canadian (New),4.5,179,$$$$,4,49.2832349,-123.0948578
+TAKO,601 Expo Boulevard,Korean,4.0,212,$,1,49.278816,-123.1078822
+Unchai Thai Restaurant,2351 Burrard Street,Thai,4.5,79,,0,49.265112,-123.145913
+So Hyang Korean Cuisine,6345 Fraser Street,Korean,4.0,317,$$,2,49.2271233,-123.0909348
+Pourhouse Restaurant,162 Water Street,Cocktail Bars,4.0,541,$$,2,49.2841134475502,-123.10842879595
+Hai Chi Em,6181 Fraser Street,Vietnamese,4.5,2,,0,49.2285,-123.0909
+Published On Main,3593 Main Street,Tapas/Small Plates,4.5,80,,0,49.25283186017385,-123.10116032897228
+Mount Everest Kitchen & Grill,538 Seymour Street,Indian,4.5,31,,0,49.28343057225757,-123.1142148824853
+Fat Mao Noodles,217 E Georgia Street,Asian Fusion,4.0,220,$$,2,49.27881,-123.09893
+La Taqueria Pinche Taco Shop,322 W Hastings Street,Mexican,4.5,511,$$,2,49.282912,-123.110593
+Thierry,1059 Alberni Street,Patisserie/Cake Shop,4.0,923,$$,2,49.2848818,-123.1228949
+Brix & Mortar,1138 Homer Street,Wine Bars,4.0,312,$$$,3,49.27561628359493,-123.12189775678031
+Hawkers Delight Deli,4127 Main Street,Delis,4.0,350,$,1,49.248375,-123.101287
+La Belle Patate,1215 Davie Street,Fast Food,4.0,533,$$,2,49.2820547306569,-123.133442922354
+Holy Chow,433 W Pender Street,Asian Fusion,4.0,26,,0,49.28317639999999,-123.1122509
+Yolks,546 W Broadway,Coffee & Tea,3.5,342,$$,2,49.2631139,-123.1163529
+Rorimomo,781 Davie Street,Korean,4.0,28,,0,49.277705275,-123.126947862
+The Fish Counter,3825 Main Street,Fish & Chips,4.5,337,$$,2,49.25076,-123.10136
+Di Beppe,8 W Cordova Street,Italian,4.0,132,$$,2,49.282377055816596,-123.10450043738042
+Nuba in Gastown,207 W Hastings Street,Mediterranean,4.0,734,$$$,3,49.2827625062516,-123.109646101134
+One Bowl,693 W Broadway,Cafes,4.0,12,,0,49.263533857529154,-123.1195716
+Peaceful Restaurant,110-532 W Broadway,Chinese,3.5,620,$$,2,49.263147,-123.116143
+93 Coffee,1789 Comox Street,Cafes,5.0,1,,0,49.28853156299956,-123.1392191
+Shanghai River,7831 Westminster Highway,Chinese,4.0,769,$$$,3,49.17074,-123.13848
+Tap & Barrel - Bridges,1696 Duranleau St,Breakfast & Brunch,4.0,35,$$,2,49.2727468,-123.1359964
+7-inch Waffle House,107-223 West Broadway,Waffles,4.0,4,,0,49.2633,-123.10988
+Black Frog Eatery,108 Cambie Street,Pubs,4.0,206,$$,2,49.284598,-123.108687
+Bovine,1050 W Pender Street,Japanese,4.5,37,,0,49.2868799,-123.11962
+Mazahr Lebanese Kitchen,1488 West 11th Avenue,Lebanese,5.0,37,,0,49.2615511,-123.1383052
+España Restaurant,1118 Denman Street,Spanish,4.0,245,$$,2,49.2880552,-123.1404114
+Motonobu Udon,3501 E Hastings St,Japanese,4.0,65,$$,2,49.2813968,-123.0280718
+Laksa King,2546 E Hastings Street,Burmese,4.0,202,$$,2,49.2810051,-123.0534797
+Straight and Marrow,1869 Powell Street,Gastropubs,4.5,25,,0,49.2848302,-123.0661495
+K Cafe,2533 Heather Street,Coffee & Tea,4.0,23,$,1,49.2630081,-123.1200714
+John 3:16 Malaysian Delights,1063 W Broadway,Malaysian,4.0,37,,0,49.26371,-123.12812
+Jägerhof Restaurant,71 Lonsdale Avenue,German,4.0,110,$$,2,49.31176,-123.07923
+Le Crocodile Restaurant,909 Burrard Street,French,4.5,425,$$$$,4,49.2822815356982,-123.124911131657
+Yu Shang Hot Pot,202-950 W Broadway,Hot Pot,4.5,68,,0,49.263149,-123.125629
+PiDGiN,350 Carrall Street,Japanese,4.0,314,$$$,3,49.2819071402452,-123.104188653967
+Meat & Bread,796 W Broadway Street,Sandwiches,3.0,16,$$,2,49.2632033,-123.1217764
+Lamajoun,128-11782 River Road,Mediterranean,4.5,86,$,1,49.1967128,-123.0952077
+Guu Original Thurlow,838 Thurlow Street,Japanese,4.0,783,$$,2,49.2839786648396,-123.125567978574
+Stock and Supply,550 West Hastings Street,Canadian (New),4.0,17,,0,49.28416,-123.1127
+Cafe Tica,2408 Alberta Street,Delis,4.5,15,$,1,49.2637017,-123.1108151
+Yama Cafe,2007 East Hastings Street,Cafes,4.5,87,$$,2,49.2813049,-123.0632877
+Moose's Down Under,830 Pender Street W,Pubs,4.0,140,$$,2,49.285638,-123.11634
+Local Public Eatery,3 Alexander Street,Gastropubs,4.0,134,$$,2,49.2835742,-123.1039517
+Fiorino,212 E Georgia St,Italian,4.0,23,,0,49.2784351,-123.0992476
+Midam Cafe,3211 W Broadway,Korean,4.5,40,,0,49.2644249,-123.17645
+Nuba in Yaletown,508 Davie Street,Mediterranean,4.0,98,$$,2,49.275922840711004,-123.1245237819059
+Go Fish Ocean Emporium,1505 W 1st Avenue,Seafood,4.0,492,$$,2,49.2712685403221,-123.139493380397
+Nook,195 West 2nd Avenue,Pizza,4.0,60,,0,49.269495877535,-123.109226971865
+Jollibee,2549 Cambie Street,Fast Food,3.5,16,$$,2,49.2628615714721,-123.1151665
+Saigon Bites,6285 Kingsway,Sandwiches,4.0,5,,0,49.22026383879032,-122.97266571359754
+Six Acres,203 Carrall Street,Pubs,4.0,285,$$,2,49.2833119,-123.1044042
+Barbara,305 East Pender Street,Canadian (New),4.5,16,,0,49.2804544,-123.0970391
+Zab Zaab Thai Cuisine,1211 Hamilton Street,Thai,4.5,14,,0,49.27493,-123.12321
+Suika,1626 W Broadway,Japanese,4.0,508,$$,2,49.26333,-123.1417
+The Sandbar Seafood Restaurant,1535 Johnston Street,Seafood,3.5,698,$$$,3,49.27165,-123.134376
+Jamjar - Folk Lebanese Food,2280 Commercial Drive,Lebanese,4.0,252,$$,2,49.264412,-123.0695951
+The Mexican Antojitos Y Cantina,1049 Granville Street,Mexican,4.5,394,$$,2,49.2787726,-123.1240268
+A.Bento,656W Broadway,Taiwanese,4.0,18,$$,2,49.263164,-123.118857
+Eggmon,82 Keefer Place,Waffles,4.0,12,,0,49.27942299044441,-123.10699604451655
+Donair And Sub House,403 West Broadway,Donairs,0.0,0,,0,49.2633677,-123.1131452
+Cafe & Life Co.,511 W 7th Avenue,Cafes,4.5,10,,0,49.265218,-123.116184
+Maruhachi Ra-men,780 Bidwell Street,Ramen,4.5,743,$$,2,49.2905691,-123.1333951
+The Parlour,1011 Hamilton Street,Pizza,4.0,454,$$,2,49.276835,-123.120221
+Zarak By Afghan Kitchen,2102 Main Street,Afghan,4.5,52,,0,49.266224,-123.1006089
+Rodney's Oyster House,1228 Hamilton Street,Seafood,4.0,796,$$,2,49.2744326,-123.1232482
+Sura Korean Cuisine,1518 Robson Street,Korean,4.0,423,$$,2,49.2888601838143,-123.131742169312
+Frying Pan,1101 Denman Street,Korean,4.5,22,,0,49.28835486722387,-123.1404394134939
+Taco Nori Sushi Tacos,118 West 6th Avenue,Sushi Bars,4.5,12,,0,49.2654937,-123.1071619
+Breakfast Table,3014 Granville Street,Breakfast & Brunch,4.5,247,$$,2,49.2586084,-123.13855
+Beach Ave Bar And Grill,1 -1012 Beach Avenue,Seafood,4.5,18,$$,2,49.27553568577844,-123.13565084059195
+Yasma,550 Denman Street,Syrian,4.5,20,,0,49.29336120000001,-123.1321649
+Maxine's Cafe & Bar,1325 Burrard Street,Bars,4.5,56,$$,2,49.27807,-123.13131
+The Templeton,1087 Granville Street,Breakfast & Brunch,4.0,516,$$,2,49.2785261,-123.1243982
+La Mezcaleria,1622 Commercial Drive,Mexican,4.0,289,$$,2,49.2702237,-123.0694136
+Westcoast Poke,463 W 8th Avenue,Hawaiian,4.0,170,$$,2,49.26409,-123.1140415
+LIFT Bar Grill View,333 Menchions Mews,Seafood,3.5,287,$$$,3,49.2937850399962,-123.12978089218
+Potluck Hawker Eatery,3424 Cambie Street,Indonesian,3.5,80,,0,49.254602,-123.1149019
+The Dirty Apron Delicatessen,540 Beatty St,Cafes,4.5,67,$$,2,49.2805632,-123.1091772
+Monarca,181 Carrall Street,Mexican,4.5,17,,0,49.28378619999999,-123.1044645
+Caffe La Tana,635 Commercial Drive,Cafes,5.0,30,,0,49.2788597356837,-123.070581380828
+Suyo Modern Peruvian,3475 Main Street,Peruvian,4.0,6,,0,49.2540292,-123.10106599580521
+Bodega On Main,1014 Main Street,Spanish,4.0,202,$$,2,49.2752787,-123.0997112
+O! Taho,4223 Fraser Street,Filipino,4.5,51,$$,2,49.2473597,-123.0903811
+Casereccio Foods,2480 Vine Street,Italian,4.5,29,,0,49.2642,-123.15742
+Robba da Matti,1127 Mainland Street,Italian,4.0,483,$$$,3,49.2753397,-123.1208967
+Riley's Fish & Steak,200 Burrard Street,Seafood,4.0,30,,0,49.287641996861865,-123.1151089
+ARC Restaurant,900 Canada Place Way,Canadian (New),4.0,161,$$$,3,49.2872868,-123.1137298
+Honeybrew,785 Davie Street,Bistros,4.0,29,$$,2,49.27787,-123.12652
+Nightshade,1079 Mainland St,Vegan,4.5,21,,0,49.27604,-123.12042
+Katsu San,110-6011 No 1 Road,Japanese,4.5,95,$$,2,49.169982779066,-123.181773349643
+Nam San,202 1610 Robson Street,Korean,4.5,20,,0,49.28946,-123.13294
+Benkei Noodle Shop,545 W Broadway,Ramen,3.5,175,$$,2,49.2634074769026,-123.116500429352
+Nobi Nobi,11320 Steveston Hwy,Japanese,4.5,28,$$,2,49.133102,-123.098042
+Stanley's Bar & Grill,610 Pipeline Road,Bars,3.0,102,$$,2,49.2997083,-123.1339011
+Kook Korean BBQ,2800 1st Avenue E,Korean,4.0,141,$$$,3,49.26894,-123.04565
+Banter Room,1039 Mainland St,Canadian (New),3.5,115,$$,2,49.2763185,-123.1196683
+Kissa Tanto,263 E Pender Street,Japanese,4.0,276,$$$$,4,49.2806,-123.09812
+Pepper Lunch,2323 Cambie Street,Japanese,3.5,79,$$,2,49.2646,-123.11523
+Cactus Club Cafe,588 Burrard Street,Canadian (New),4.0,461,$$,2,49.28554081466174,-123.11881637137162
+Dynasty Seafood Restaurant,777 W Broadway,Dim Sum,3.5,280,$$,2,49.2635999,-123.12138
+Nook,1525 Yew Street,Italian,4.0,160,$$,2,49.2722128608937,-123.155147313374
+Super Chef Grill,280 Robson Street,Chinese,4.5,79,$,1,49.279012421188,-123.116581099631
+Tatta Chulha,147 E Broadway,Indian,4.5,14,,0,49.26307302443682,-123.1018777
+The Vancouver Fish Company,1517 Anderson St,Seafood,3.5,246,$$$,3,49.2706337,-123.13633
+Peaked Pies,975 Denman Street,Australian,4.5,193,$$,2,49.2896489,-123.1384797
+Kam Wai Dim Sum,249 E Pender Street,Dim Sum,4.0,59,$,1,49.28048,-123.098438
+Gringo,27 Blood Alley Square,Mexican,4.5,281,$,1,49.2831553214634,-123.105335897068
+395 Baking House Pro,2-3343 Kingsway,Hong Kong Style Cafe,4.5,2,,0,49.23367,-123.03432
+A Bread Affair,1680 Johnston Street,Bakeries,4.0,96,$,1,49.2724508745628,-123.135854241387
+Damso Modern Korean Cuisine,867 Denman Street,Korean,4.0,198,$$,2,49.290631652856824,-123.13696164681825
+Sushi Jin,750 Nelson Street,Japanese,4.5,137,$$$,3,49.2795794102629,-123.123817518353
+Tabom,1536 Robson Street,Korean,4.0,93,,0,49.28901186686636,-123.1318846021006
+MeeT in Yaletown,1165 Mainland Street,Comfort Food,4.0,157,$$,2,49.2748495736666,-123.121902530398
+Salmon n' Bannock,1128 W Broadway,Canadian (New),4.5,197,$$,2,49.2631378,-123.1296705
+District Bar & Restaurant,121 Robson Street,Cocktail Bars,4.0,90,$$,2,49.2777057046774,-123.114148463454
+Brass Fish Tavern,385 Burrard Street,American (Traditional),4.0,17,,0,49.2873401,-123.1169064
+MeeT in Gastown,12 Water Street,Comfort Food,4.0,476,$$,2,49.28343624826065,-123.1048494822089
+Pholicious,430 Pender Street W,Vietnamese,4.5,145,$,1,49.28297,-123.11279
+Tractor,601 W Broadway,Breakfast & Brunch,4.0,25,$$,2,49.2634674383775,-123.118251698812
+Mr Japanese Curry,446 West 8th Avenue,Japanese,4.0,34,$$,2,49.2638021,-123.1137004
+1927 Lobby Lounge,801 W Georgia Street,Cocktail Bars,4.5,33,$$$,3,49.2834188,-123.1187911
+Elephant On Powell Restaurant,1879 Powell Street,Canadian (New),5.0,5,,0,49.2848635,-123.0659995
+Honey Salt,39 Smithe Street,Canadian (New),3.5,257,$$,2,49.2753742,-123.1128477
+Tap & Barrel - Convention Centre,1055 Canada Place,Comfort Food,4.0,322,$$,2,49.289845529586,-123.116857235515
+OEB Breakfast Co. Ambleside,1390 Marine Drive,Breakfast & Brunch,4.5,24,$$,2,49.3277023,-123.1537985
+Hanai,1590 Commercial Drive,Hawaiian,4.0,9,,0,49.270671367594815,-123.06944910010282
+Rice Burger,2630 Sasamat Street,Burgers,4.5,81,$$,2,49.2635568,-123.2089751
+District Eleven,4063 Main Street,Vietnamese,4.0,23,,0,49.2489934,-123.1012049
+Sushi Dragon,614 West Broadway,Japanese,4.0,90,$,1,49.2631475,-123.118358
+The Greek By Anatoli,1043 Mainland Street,Greek,4.0,246,$$,2,49.276285,-123.1197178
+Delara,2272 W 4th Avenue,Persian/Iranian,4.5,30,,0,49.2680486,-123.1569183
+Micha,120-4751 Garden City Road,Chinese,4.5,35,,0,49.1786844,-123.1248149
+Banana Leaf,820 W Broadway,Malaysian,3.5,295,$$,2,49.26302,-123.1225
+Kozak Ukraïnian Eatery,1 W Cordova Street,Ukrainian,4.5,20,$$,2,49.2826441,-123.1044762
+Fable Diner,151 E Broadway,Diners,4.0,326,$$,2,49.2630749,-123.1019822
+Bali Thai,88 W Pender Street,Indonesian,4.5,90,$,1,49.2802711224293,-123.106226601714
+Le Petit Belge,340 Robson Street,Bakeries,4.0,329,$$,2,49.2789656680049,-123.116212114692
+Seiza,3068 Main Street,Japanese,4.0,76,$$,2,49.2578770366267,-123.100880943239
+L'Abattoir,217 Carrall Street,French,4.0,572,$$$,3,49.2831869855333,-123.104450140894
+Marché Mon Pitou,1387 W 7th Avenue,Cafes,4.5,34,$$,2,49.2654349,-123.1357134
+Yui Japanese Bistro,102-1185 W Georgia Street,Japanese,4.0,123,$$,2,49.287111,-123.1247016
+Elisa,1109 Hamilton Street,Steakhouses,4.0,185,$$$$,4,49.2759562,-123.1213608
+Indian Delicacy,1130 West pender st,Indian,4.5,95,$$,2,49.28749,-123.12141
+Cactus Club Cafe,575 Broadway W,Canadian (New),3.5,138,$$,2,49.2633734327403,-123.117130327243
+Market Grill,1689 Johnston Street,Burgers,4.0,51,$$,2,49.2726237,-123.1356235
+Pho Extreme Xe Lua,457 W Broadway,Vietnamese,2.5,101,$,1,49.2633568993769,-123.114155144333
+Wasuta Pasta,202-7080 River Road,Japanese,4.0,51,$$,2,49.17738842937801,-123.14447488635778
+Tutto,901 Homer St,Italian,4.5,49,$$$,3,49.2784091,-123.1187139
+Hikari Cafe,5701 Granville Street,Japanese,4.0,51,$$,2,49.2339516,-123.1401367
+Loz Takos,792 W Broadway,Mexican,3.5,8,,0,49.2632015,-123.1217092
+Harambe Restaurant,2149 Commercial Drive,Ethiopian,4.0,133,$$,2,49.265519,-123.069867
+Arike Restaurant,1725 Davie St,African,5.0,25,,0,49.2868046,-123.1408561
+Shizen Ya,965 Hornby Street,Japanese,4.0,581,$$,2,49.2808844,-123.1246278
+John 3:16 Malaysian Delights,6832 & 6838 No.3 Road,Malaysian,4.0,207,$$,2,49.1641317,-123.1362195
+Kouign Café,18 East Pender Street,Bakeries,4.5,34,,0,49.280313,-123.1039576
+Ukrainian Village,815 Denman Street,Ukrainian,4.0,166,$$,2,49.2914123,-123.1358196
+Maenam,1938 W 4th Avenue,Thai,4.0,376,$$,2,49.26787,-123.1488979
+Nero Waffles,1002 Seymour Street,Waffles,4.5,463,$$,2,49.27834403099929,-123.12204465357301
+Le Coq Frit,1888 W Broadway,Chicken Shop,4.5,24,,0,49.2636151,-123.1479001
+Ramen Danbo,1833 W 4th Avenue,Ramen,4.0,366,$$,2,49.26828,-123.146431
+Burgoo Bistros,3096 Main Street,Comfort Food,4.0,494,$$,2,49.25763,-123.10084
+Tokyo In April,526 Abbott St,Japanese,4.5,34,,0,49.2806813,-123.1073936
+St Lawrence Restaurant,269 Powell Street,French,4.5,130,$$$,3,49.2832584031253,-123.097993419888
+Nook,781 Denman Street,Italian,4.0,305,$$,2,49.2917554,-123.1352974
+iDen & Quan Ju De Beijing Duck House,2808 Cambie Street,Chinese,3.5,71,,0,49.26021,-123.1148451
+JOS,1190 W Cordova St,Pizza,4.5,41,$$,2,49.2890737079158,-123.122008477632
+Afuri Ramen + Dumpling,2801 Main Street,Ramen,4.0,15,,0,49.25994,-123.10151
+Absinthe Bistro,952 Commercial Drive,French,4.5,135,$$$,3,49.27607,-123.0692457
+Pho Mimosa,1157 Granville Street,Vietnamese,5.0,1,,0,49.27773011592513,-123.1256381
+Nuba - Mount Pleasant,146 E 3rd Avenue,Mediterranean,4.0,158,$$,2,49.26797,-123.10171
+Jam Cafe,2153 W 4th Avenue,Breakfast & Brunch,4.5,205,$$,2,49.2682705,-123.1539827
+Osteria Savio Volpe,615 Kingsway,Italian,4.0,396,$$$,3,49.2574913,-123.0909344
+Rogue Kitchen & Wetbar,602 West Broadway Avenue,American (Traditional),3.5,142,$$,2,49.263047,-123.117827
+Noah's Cafe,572 Davie Street,Cafes,4.5,26,,0,49.2762158,-123.1250441
+H2 Kitchen + Bar,1601 Bayshore Drive,Gastropubs,3.5,71,$$,2,49.29164,-123.12932
+Sooda Korean BBQ,60 West Cordova Street,Korean,5.0,1,,0,49.282678,-123.106049
+Caveman Cafe,88 W Pender Street,Organic Stores,4.5,266,$$,2,49.280802324947445,-123.10703500282291
+Tagine Moroccan Restaurant,51 W Hastings Street,Mediterranean,4.0,148,$$,2,49.28198,-123.1063304
+Jules French Bistro,216 Abbott Street,French,4.0,227,$$,2,49.28361,-123.10638
+The Magnet,309 W Pender Street,Beer Bar,4.5,14,,0,49.2824018,-123.1110785
+Nero Waffles,1703 Robson Street,Desserts,4.5,637,$$,2,49.2907208,-123.1339952
+Peranakan Kitchen,1122 5th Avenue,Indonesian,5.0,3,,0,49.206320079356665,-122.92838104069232
+Aleph Eatery,1889 Powell Street,Middle Eastern,4.5,66,$$,2,49.2849288,-123.065795
+Alimentaria Mexicana,1596 Johnston Street,Mexican,3.5,44,,0,49.27174542091458,-123.13493058085443
+Sopra Sotto,1510 Commercial Drive,Pizza,4.0,128,$$,2,49.2711051,-123.0694651
+Branas Mediterranean Grill,617 Stamps Landing,Mediterranean,3.5,60,$$,2,49.2686214,-123.1184584
+Tableau Bar Bistro,1181 Melville Street,Bars,4.0,260,$$,2,49.287494,-123.1235689
+DD Mau Chinatown,145 E Pender Street,Vietnamese,4.0,92,$$,2,49.2805314,-123.1009349
+Mangia Cucina & Bar,2211 Manitoba St,Italian,4.5,72,$$,2,49.26542712485377,-123.10690661226711
+Au Comptoir,2278 W 4th Avenue,French,4.0,209,$$$,3,49.268034328356,-123.15672487756
+Thai Box on Truck,Cambie Street & W8th Avenue,Thai,3.5,9,,0,49.2641677270461,-123.115005434393
+The Farmhouse,352 East 10th Avenue,Italian,3.5,2,,0,49.26185879464837,-123.09710762514682
+Five Sails Restaurant,401-999 Canada Place,French,4.5,172,$$$$,4,49.2880313351364,-123.113292160758
+International Sandwich Factory,1086 Broadway W,Sandwiches,5.0,1,,0,49.2633051,-123.1286559
+Tetsu Sushi Bar,775 Denman Street,Japanese,4.5,98,$$,2,49.2917758,-123.1352662
+La Catrina Tacos,1187 Denman Street,Mexican,4.5,116,$,1,49.2878472,-123.1411949
+Alley 16,3190 Cambie Street,Barbeque,5.0,1,,0,49.257017,-123.11474
+One More Szechuan Chinese Cuisine,1262 Marine Drive,Chinese,4.5,60,$$,2,49.324876,-123.109655
+Maizal RMF,2815 Main Street,Mexican,4.5,143,$$,2,49.2600097,-123.1012988
+Tony's Fish & Oyster Cafe,1511 Anderson Street,Seafood,3.5,215,$$,2,49.2707626,-123.1361439
+Meat & Bread,370 Cambie Street,Sandwiches,4.0,781,$$,2,49.2826255017147,-123.109336831057
+ChongQing,1260 Robson Street,Chinese,3.5,381,$$,2,49.286526424773,-123.128171776697
+La Ruota,2325 Cambie Street,Pizza,4.5,12,,0,49.26457006285351,-123.1152291
+Number e food,1308 Burrard Street,Sandwiches,5.0,134,$$,2,49.277569151917,-123.131018212403
+Jade Dynasty Restaurant,137 E Pender Street,Dim Sum,3.5,178,$$,2,49.28066,-123.10097
+Dosanko,566 Powell Street,Japanese,4.0,100,$$,2,49.28278,-123.09194
+The Fish Man,1170-8391 Alexandra Road,Seafood,4.0,93,$$$,3,49.1784663,-123.1302516
+Robba Da Matti,12 Powell St,Italian,5.0,4,,0,49.283146323514835,-123.10375675641403
+Browns Socialhouse QE Theatre,675 Cambie St,Burgers,4.0,30,$$,2,49.28022,-123.11287
+Les Faux Bourgeois,663 E 15th Avenue,French,4.0,448,$$,2,49.2572813531481,-123.089767330802
+Café Portrait,1120 Denman Street,Cafes,4.5,37,,0,49.2881056129168,-123.140413686633
+OEB Breakfast Co. North Vancouver,143 E 15th St.,Breakfast & Brunch,4.5,78,$$,2,49.3219239,-123.0704075
+Lotus Seed Vegan,736 W Broadway,Vegan,4.0,124,$$,2,49.2631751,-123.1204905
+Orto Artisan Pasta,1600 Mackay Road,Italian,4.5,78,$$,2,49.3231065041869,-123.101910508419
+Saboo Restaurant,1455 Main Street,Persian/Iranian,4.0,4,,0,49.30525,-123.03319
+Smoke and Bones,999 Marine Drive,Barbeque,4.0,142,$$,2,49.323648,-123.1020458
+Keto Caveman Davie,1230 Davie Street,Pizza,4.5,7,,0,49.282097250077,-123.13417406903339
+Green Leaf Sushi,3416 W Broadway,Sushi Bars,4.0,396,$$,2,49.2642679,-123.1801
+La Notte Restaurant,3307 Dunbar St,Italian,4.0,51,$$,2,49.2571826,-123.1852849
+Side Hustle Sandwiches,151 E 8th Avenue,Sandwiches,4.5,17,,0,49.2638419,-123.1016712
+Sen Pad Thai,1689 Johnston Street,Thai,4.0,101,$$,2,49.27283492731183,-123.1349970218799
+Grub,4328 Main Street,Italian,4.0,179,$$,2,49.2463988,-123.1010281
+Carp,2516 Prince Edward Street,Japanese,4.5,82,$$,2,49.262354,-123.0958273
+Downlow Chicken Shack,905 Commercial Drive,Chicken Shop,4.0,262,$$,2,49.2765067,-123.0696349
+Do Chay,1392 Kingsway,Vietnamese,4.5,149,$$,2,49.25006,-123.0765
+Aquarium Cafe,Vancouver Aquarium,Cafes,4.5,3,$,1,49.3012428,-123.1294403
+Moderne Burger,865 W Broadway,Burgers,4.0,33,,0,49.2635023479535,-123.123377188087
+Gyu-Kaku Japanese BBQ,G3-888 Nelson Street,Japanese,4.0,386,$$,2,49.28031,-123.12467
+Tom Sushi,1175 Davie St,Sushi Bars,4.5,163,$$,2,49.2815608,-123.1327476
+Vonns,1184 Denman Street,Burgers,4.5,28,,0,49.28724,-123.14124
+Patisserie Lebeau,1728 W 2nd Avenue,Bakeries,4.5,125,$$,2,49.2696509840324,-123.144082948565
+Straight Outta Brooklyn NYC Pizzeria,350 Robson Street,Pizza,4.0,222,$,1,49.2791165,-123.1166227
+La Boqueria,291 East Pender,Wine Bars,4.0,27,,0,49.280466,-123.0976615
+Guu with Otokomae,105 - 375 Water Street,Japanese,4.0,374,$$,2,49.2847191,-123.11038556296398
+Liquids And Solids,901 E Hastings Street,Cafes,4.0,20,$,1,49.28135,-123.08461
+B House,2270 Commercial Drive,Asian Fusion,4.5,20,,0,49.264473795087,-123.069533295929
+Menya Raizo,401 W Broadway,Ramen,4.0,71,$$,2,49.26336,-123.11314
+Hokkaido Ramen Santouka,1690 Robson Street,Ramen,4.0,986,$$,2,49.290236,-123.133811
+Argo Café,1836 Ontario Street,French,4.0,82,$$,2,49.2684636930376,-123.104528329935
+STEM Japanese Eatery,5205 Rumble Street,Japanese,4.0,101,$$,2,49.2149649,-122.9882104
+Breka Bakery & Cafe,812 Bute Street,Cafes,4.0,316,$,1,49.2857242811844,-123.1271553452
+Chef Ron,1037 Denman Street,Italian,5.0,2,,0,49.28905,-123.13951
+Cozen,1441 Commercial Drive,Japanese,4.5,5,,0,49.2715238,-123.0697249
+Giardino,1328 Hornby Street,Italian,4.0,122,$$$,3,49.276991,-123.1301021
+The Observatory At Grouse Mountain,6400 Nancy Greene Way,Canadian (New),3.5,118,$$$,3,49.3790102202533,-123.083366339843
+Gobble,2017 W 4th Avenue,American (Traditional),4.0,32,,0,49.2682269,-123.1507353
+88 Noodle House,5021 Kingsway,Korean,4.5,21,$$,2,49.22620101021694,-122.99179271973318
+Oddfish,1889 W 1st Avenue,Seafood,4.0,75,$$$,3,49.2708136,-123.1475237
+Ancora Waterfront Dining and Patio,1600 Howe Street,Seafood,4.0,210,$$$$,4,49.273853456158875,-123.13257765112428
+JOEY Shipyards,125 Victory Ship Way,Canadian (New),4.5,90,$$,2,49.309465809096125,-123.07883223643933
+Ça Marche Creperie,1471 Continental Street,French,4.0,18,,0,49.2745342,-123.1312045
+Meat & Bread,1033 W Pender Street,Sandwiches,4.0,212,$,1,49.2872146,-123.1188744
+The Peri Peri Shack,724 Kingsway,Chicken Shop,4.0,18,,0,49.25627292573432,-123.08909775135942
+Joojak Restaurant,3337 Kingsway,Chinese,4.5,140,$$,2,49.2334900680365,-123.034767160936
+Nine Dumplings,204-1610 Robson Street,Chinese,4.5,33,,0,49.289525,-123.132907
+Rajio Japanese Public House,3763 W 10th Avenue,Japanese,4.0,124,$$,2,49.2636549,-123.1870301
+Kin Kao Song,317 E Broadway,Thai,4.0,16,,0,49.2629749,-123.0986667
+Fufu Pancake Cafe,1266 West Broadway,Pancakes,3.5,90,,0,49.2633451,-123.1328422
+bibik's,5279 Still Creek Ave,Singaporean,4.5,3,,0,49.2609854933874,-122.988188937306
+Cactus Club Cafe,1790 Beach Avenue,Canadian (New),3.5,313,$$,2,49.28689653721021,-123.14273036
+Mogu Fried Chicken,1012 Commercial Drive,Japanese,4.5,25,,0,49.2756074483614,-123.069326430559
+Browns Crafthouse Seymour,580 West Pender,Beer Bar,4.0,38,$$,2,49.2841724124811,-123.113347974687
+The Refinery,1115 Granville Street,Wine Bars,4.0,155,$$,2,49.2781499,-123.12529
+Gyu-Kaku Japanese BBQ,#201-950 W. Broadway,Barbeque,4.0,196,$$,2,49.2633338,-123.1255837
+Pepino's,631 Commercial Drive,Italian,4.0,141,$$$,3,49.2787695,-123.0705849
+Simit Bakery,191 West Broadway,Bakeries,4.5,34,,0,49.2632345,-123.1087722
+To Dine For Eatery,333 Terminal Avenue,Burgers,4.5,71,$$,2,49.2724419,-123.0957108
+Viet House,3420 Cambie Street,Vietnamese,4.0,70,$$,2,49.2546156379752,-123.114992380142
+Crispy,950 Marine Drive,Halal,4.5,41,$$,2,49.3229212636061,-123.09925134952
+Pizza Rubato Napoletana,561 W Broadway,Pizza,5.0,4,,0,49.2635503,-123.1170685
+Dong Tai Xiang Shanghai Dim Sum,3250 Cambie Street,Dim Sum,3.0,49,$$,2,49.2561684,-123.1148886
+Torafuku,958 Main Street,Asian Fusion,3.5,213,$$,2,49.27589499983855,-123.09961118220762
+Rose Persian Cuisine,1746 Marine Drive,Persian/Iranian,4.0,32,$,1,49.32848,-123.16115
+Nonna's Cucina,2166 East Hastings Street,Italian,5.0,2,,0,49.28102559006067,-123.0602546
+Chipotle Mexican Grill,532 Broadway W,Fast Food,2.5,36,,0,49.26292,-123.11603
+Cafe Ami,899 W 12th Avenue,Cafes,4.0,9,$,1,49.260803,-123.123994
+Dock Lunch,152 E 11th Avenue,Southern,4.0,33,$$,2,49.2610072,-123.1022047
+Zubu Food Hall,159 West 4th Avenue,Japanese,3.0,9,,0,49.2677,-123.10855
+Hawksworth Restaurant,801 W Georgia Street,Canadian (New),4.0,622,$$$$,4,49.2833971,-123.1191704
+The Galley Patio & Grill,1300 Discovery Street,American (Traditional),3.5,41,$$,2,49.2756627698945,-123.201565758073
+The Patty Shop,4019 MacDonald Street,Caribbean,4.5,104,$,1,49.250721434013,-123.167994263811
+Doughgirls,3322 Shrum Lane,Cafes,4.5,57,$,1,49.254644,-123.235875
+Little Bird Dim Sum,2958 W 4th Avenue,Dim Sum,4.0,66,$$,2,49.26814,-123.17168
+Tokyo Katsu-Sand,725 W Georgia St,Food Trucks,4.0,22,,0,49.2827218,-123.1182597
+Kaneko Hannosuke,1-1725 Robson Street,Japanese,4.0,58,$$,2,49.29096,-123.134126
+Ophelia,165 W 2nd Avenue,Mexican,3.5,53,,0,49.2694549,-123.1083881
+Sushi Mugen,903 Davie street,Sushi Bars,4.0,102,$$,2,49.2786508,-123.1282232
+Disco Cheetah,1183 Davie Street,Korean,4.5,57,$$,2,49.2816419,-123.1328747
+Wild Thyme,705 12th Street,Lebanese,4.5,366,$$,2,49.2092291,-122.932308
+Gusto A Taste of Italy,1610 Salt St,Desserts,4.5,76,$$,2,49.2714006565536,-123.10593623668
+Mary's on Davie,1202 Davie Street,Diners,4.0,60,,0,49.28177,-123.13378
+Hei Hei Rice Roll,2430-8260 Westminster Highway,Chinese,4.0,61,$$,2,49.1700051,-123.1330234
+Stock Market,1689 Johnston Street,Specialty Food,4.0,92,$,1,49.2726237,-123.1356235
+Joong Won,1329 Robson Street,Korean,4.0,75,$$,2,49.2874481,-123.1289166
+Birds & the Beets,55 Powell Street,Breakfast & Brunch,4.0,152,$$,2,49.28343,-123.10282
+Their There,2042 West 4th Avenue,Breakfast & Brunch,4.0,99,$$,2,49.2679649501648,-123.151158941154
+Showcase Restaurant & Bar,1122 West Hastings Street,Seafood,4.0,125,$$,2,49.2879858,-123.1204414
+Kyu Grill,,Food Trucks,4.0,13,,0,49.2603797912598,-123.113357543945
+Chef's Choice Chinese Cuisine,955 West Broadway,Seafood,4.0,21,,0,49.2636682,-123.1254885
+Vij's Restaurant,3106 Cambie Street,Indian,4.0,370,$$$,3,49.25754,-123.11479
+The Corner Hotpot,2893 W Broadway,Hot Pot,4.5,2,,0,49.2643238,-123.1702132
+Afghan Horsemen Restaurant,1833 Anderson Street,Middle Eastern,4.0,241,$$,2,49.2694847203493,-123.138735294342
+Robba da Matti West End,1906 Haro St.,Italian,4.0,67,,0,49.29172,-123.13857
+El Guapo,1009 Hamilton Street,Bars,4.0,39,,0,49.27677028299,-123.120114580259
+Ofra’s Kitchen,1088 Denman Street,Middle Eastern,4.5,36,,0,49.2882676,-123.140038
+ZAC.ZAC Japanese Curry House,2 F - 590 Robson Street,Japanese,4.0,95,$,1,49.2804712,-123.1186985
+Indian Roti Kitchen,2961 Cambie Street,Indian,4.5,157,$$,2,49.25901,-123.11538
+Las Autenticas Tacos & Tortas Ahogadas,1605 W 5th Avenue,Mexican,4.5,4,,0,49.26736,-123.14128
+Chang'An,1661 Granville Street,Chinese,3.5,74,$$$,3,49.27331299999999,-123.1326809
+Grab N Go,883 Hamilton Street,Sushi Bars,4.0,10,,0,49.2780795,-123.1173949
+Kin Kao Thai Kitchen,903 Commercial Drive,Thai,4.0,159,$$,2,49.276516,-123.0696335
+Beeryani Indian Bistro & Bar,1184 Denman Street,Indian,4.5,30,,0,49.28724,-123.14124
+Nammos Estiatorio,3980 Fraser Street,Tapas/Small Plates,4.0,123,$$,2,49.24945896649248,-123.08990783240316
+Nox,1575 W Georgia Street,Italian,4.0,8,,0,49.29052,-123.13006
+Palate Kitchen,848 W Hastings Street,Coffee & Tea,4.0,91,$$,2,49.286331,-123.1157402
+Say Mercy,4298 Fraser Street,Italian,4.0,43,,0,49.2467683,-123.0899365
+Cafe de l'Orangerie,1320 W 73rd Avenue,Japanese,4.0,281,$$,2,49.2042129,-123.135365
+Zoomak Korean Tavern,52 Alexander Street,Korean,4.0,22,,0,49.28343,-123.10292
+Oiso Kimchi Cafe,2675 Kingsway,Korean,4.0,7,,0,49.23867,-123.05047
+BIN 4 Burger Lounge,2350 Boundary Road,Burgers,4.5,7,,0,49.2641572,-123.022698
+Legendary Noodle,887 W Broadway,Chinese,3.5,8,,0,49.2635149,-123.1238718
+Noodle Arts,1739 Robson Street,Chinese,4.0,67,$$,2,49.29111,-123.13431
+RedBeef Noodle Kitchen,550 Main Street,Desserts,4.0,18,,0,49.279908,-123.0995163
+Olive & Anchor,6418 Bay Street,Seafood,4.0,196,$$,2,49.3744299,-123.27492
+Chung Chun,1795 Robson Street,Hot Dogs,4.5,68,$,1,49.29147304039323,-123.13512302935123
+Happy Wood BBQ House,967 West Broadway,Barbeque,4.5,7,,0,49.2635741545027,-123.125512754331
+Aidan's,1055 W Hastings Street,Cafes,4.0,1,,0,49.28776,-123.11833
+Tikim Asian Fusion Restaurant,5772 Fraser Street,Filipino,4.5,3,,0,49.2321072908,-123.090356335
+Cilantro Indian Cuisine,189 W Broadway,Indian,4.5,14,,0,49.2633,-123.1089
+Cuchillo,261 Powell Street,Latin American,4.0,282,$$,2,49.283262611469,-123.098110155039
+Kosoo Restaurant,832 Cardero Street,Korean,3.5,165,$$,2,49.2890856,-123.1326402
+Bacchus Restaurant & Lounge,845 Hornby Street,Lounges,4.0,181,$$$,3,49.28232,-123.12281
+Tacofino Yaletown,1025 Mainland Street,Mexican,4.0,163,$$,2,49.2764357,-123.1194951
+Oca Pastificio,1260 Commercial Drive,Italian,4.0,40,,0,49.273392,-123.0693298
+Axum Restaurant,1279 E Hastings Street,Ethiopian,4.5,63,$$,2,49.2814936637038,-123.07779582314
+Hanoi Old Quarter Restaurant,5207 Victoria Drive,Vietnamese,4.0,58,,0,49.2373188,-123.0656478
+Yagoto Sushi Dining,2180 W Broadway,Sushi Bars,4.5,77,$$,2,49.263793589572,-123.154220015935
+McDonald's,537 West Broadway,Fast Food,3.5,22,$,1,49.263406,-123.1162947
+Hundy,1144 Homer Street,Burgers,3.5,68,,0,49.27562509135987,-123.1221336
+Bacaro,1029 W Cordova Street,Italian,4.0,12,,0,49.2880176,-123.1169647
+Popina Cantina,1666 Johnston Street,Mexican,4.5,4,,0,49.2719,-123.13562
+Los Amigos Taqueria,1118 Davie Street,Mexican,4.0,121,$$,2,49.2806359,-123.131852
+Nemesis Coffee,555 Great Northern Way,Coffee & Tea,4.0,57,$$,2,49.26704079691957,-123.09260254912492
+Hunnybee,789 Gore Avenue,Breakfast & Brunch,3.5,26,,0,49.2778557236571,-123.097276474569
+New Town Bakery & Restaurant,148 Pender Street E,Chinese,3.5,370,$,1,49.280153,-123.101201
+The Poke Guy,420 Richards Street,Hawaiian,4.5,207,$$,2,49.2837389,-123.1120629
+Tendon Kohaku,106B-1901 Rosser Avenue,Japanese,4.0,68,$$,2,49.2669774,-123.0063499
+Osaka Teppanyaki Steak & Seafood House,1788 W Broadway,Japanese,4.0,96,$$$,3,49.263417,-123.1453266
+Kulinarya,1134 Commercial Drive,Filipino,3.5,59,$$,2,49.2744901,-123.0693269
+Bin 4 Burger Lounge,2996 Granville Street,Burgers,3.5,100,$$,2,49.25902,-123.13833
+Minami,1118 Mainland Street,Japanese,4.0,732,$$$,3,49.2752733,-123.1207029
+The Ellis,2204 York Avenue,Cocktail Bars,4.5,77,$$,2,49.2715661205375,-123.155288726822
+Aburi Market,1350 Marine Drive,International Grocery,4.5,11,,0,49.3276086,-123.1531635
+Sushi California,388 W Broadway,Japanese,3.5,314,$$,2,49.2630454633729,-123.112614326016
+VV Tapas Lounge,957 E Hastings Street,Tapas Bars,5.0,11,,0,49.2811633,-123.0830466
+Banana Leaf,1043 Davie St,Malaysian,3.5,238,$$,2,49.28001,-123.13009
+La Grotta Del Formaggio,1791 Commercial Drive,Delis,4.5,184,$,1,49.2688848,-123.0697849
+Teahouse in Stanley Park,7501 Stanley Park Drive,Seafood,4.0,427,$$$,3,49.3012529987012,-123.157079257071
+Autostrada,4811 Main Street,Italian,4.0,97,$$$,3,49.24172,-123.10185
+Kintaro Ramen,788 Denman Street,Ramen,4.0,821,$$,2,49.2916373,-123.135091
+Como,201 E 7th Avenue,Tapas Bars,3.5,69,,0,49.2647449,-123.1006898
+Okeya Kyujiro,1038 Mainland Street,Sushi Bars,5.0,2,,0,49.27581579131156,-123.1197521
+The Darkside,219 Union Street,Gastropubs,4.5,3,,0,49.277937,-123.098943
+Joon's Kitchen,3093 Oak Street,Korean,4.0,58,,0,49.2580379,-123.1270746
+Kozu Sushi Pizza,1370A E Georgia Street,Japanese,4.5,14,,0,49.27827,-123.07566
+The Flying Pig - Village,127 W 2nd Avenue,Canadian (New),3.5,204,$$,2,49.2694549333199,-123.10744805094535
+City 1 Cafe,954 W King Edward Avenue,Malaysian,3.5,95,$$,2,49.248391,-123.125497
+Donair Spot,403 W Broadway,Donairs,4.0,43,$,1,49.2632805429015,-123.113161446431
+Japanese Bistro Kamome,5228 Joyce Street,Japanese,4.0,42,$$,2,49.2371553,-123.0327306
+AJ's Brooklyn Pizza Joint,325 East Broadway,Pizza,4.5,128,$$,2,49.2629437687572,-123.098307028413
+Holy Smoke,2017 Commercial Drive,Bangladeshi,4.5,2,,0,49.26655256965685,-123.06987259746528
+Ancora Waterfront Dining and Patio - Ambleside,1351 Bellevue Avenue,Seafood,4.0,44,,0,49.3273262,-123.1535988
+La Taqueria,1305 Welch Street,Mexican,4.5,87,$,1,49.317547,-123.110836
+Craffles,518 Davie Street,Waffles,4.5,6,,0,49.27596077867032,-123.12470816072846
+Gurkha Himalayan Kitchen,1141 Davie Street,Himalayan/Nepalese,4.0,189,$$,2,49.2811737,-123.1321411
+The DownLow Chicken Shack,6065 University Blvd,Chicken Shop,4.5,9,$$,2,49.2661875,-123.247906
+Kokoro Tokyo Mazesoba,2285 W 41st Avenue,Japanese,4.0,17,,0,49.2347918,-123.1593201
+Don Oso's,1305 Commercial Drive,Latin American,3.5,13,,0,49.27283657548601,-123.06985180824996
+Nostos Taverna,3162 W Broadway,Greek,5.0,8,,0,49.2640613,-123.1751526
+Mapo Pancake House,1130 Mainland Street,Korean,4.0,14,,0,49.275021,-123.1211145
+Gain Wah Restaurant,218 Keefer Street,Chinese,4.0,145,$,1,49.2793251,-123.0991638
+The Second Floor Bistro,2665 Renfrew Street,Bistros,5.0,3,,0,49.2603455,-123.044426
+MILA Plant-Based,185 Keefer Street,Vegan,4.5,75,,0,49.27963,-123.10017
+Melville Cafe,1170 Melville Street,Salad,4.5,37,$,1,49.2873714,-123.123683
+Zaatar W Zeit,531 Granville Street,Lebanese,4.0,47,$$,2,49.2844377,-123.1154382
+Shiro,3096 Cambie Street,Japanese,4.0,243,$$,2,49.2580042,-123.1149151
+Chewie's Chicken & Biscuits,2822 West 4th Avenue,Sandwiches,4.5,139,$$,2,49.26809,-123.1688
+Mandarin Hong Kong Cafe,904 W King Edward Avenue,Asian Fusion,3.5,47,$$,2,49.24863584054912,-123.12525091003072
+Oceans 999,Pan Pacific Vancouver,Canadian (New),3.5,27,$$$,3,49.2881297,-123.1148699
+Regal Mansion Cuisine Seafood Restaurant,201 - 555 west 12th Avenue,Chinese,3.5,23,,0,49.26099858201743,-123.11651119496848
+Davie Dosa Company,1235 Davie Street,Indian,4.0,184,$$,2,49.282117,-123.1335987
+RedBeef Noodle Kitchen,1947 W 4th Avenue,Taiwanese,4.0,105,$$,2,49.2681986,-123.1490359
+Bai Bua Thai Cuisine,2443 E Hastings Street,Thai,4.0,133,$$,2,49.28142,-123.05564
+Banh Mi Saigon,5397 Victoria Drive,Vietnamese,4.0,242,$,1,49.23536,-123.06588
+Blaze Gourmet Burgers,43 E 5th Avenue,Fast Food,5.0,19,$$,2,49.2666437,-123.1037431
+South Castle Korean Restaurant,141 2nd Street E,Korean,4.0,54,$$,2,49.3113895,-123.0752161
+China Gate Beijing Duck & Dumpling House,3665 Kingsway,Chinese,4.0,8,,0,49.23267,-123.0242
+Impostori Trattoria + Negroni Bar,3121 Granville Street,Italian,4.5,2,,0,49.25771,-123.13921
+Little Minh's,7533 Market Crossing,Vietnamese,4.5,123,$$,2,49.1990675,-122.9799962
+The Northern Cafe and Grill,1640 East Kent Avenue,Cafes,5.0,211,$$,2,49.2806151,-122.7596073
+Aperture Coffee Bar,243 W Broadway,Coffee & Tea,4.0,122,$$,2,49.2632037459,-123.110469593
+The Hoke Poke,1834 W 4th Avenue,Seafood,4.5,58,$$,2,49.2678847,-123.1464462
+Jess' Restaurant,2179 W 41st Ave,Asian Fusion,4.0,32,$$$,3,49.23469310222751,-123.15724723041058
+The Arbor,3941 Main Street,Vegetarian,4.0,143,$$,2,49.2499965,-123.1012256
+The Cliff House,3735 Capilano Road,Canadian (New),4.0,40,$$,2,49.3431216979992,-123.113923292065
+Jo's Italian Deli,2505 Alma Street,Italian,3.5,23,,0,49.2642192,-123.1860777
+Sizzling Wok,555 12th Avenue W,Chinese,4.5,4,$,1,49.26086,-123.11629
+Jackalope's Neighbourhood Dive,2257 E Hastings Street,Dive Bars,4.5,121,$$,2,49.2812849,-123.0586541
+Footo Croissant,858 Hamilton Street,Bakeries,4.0,119,$,1,49.2782338,-123.1165056
+Harbour Oyster + Bar,1408 Commercial Drive,Cocktail Bars,4.0,69,$$,2,49.2718946138822,-123.069181591272
+Blue Hat Bistro,101-1505 W 2nd Avenue,Bistros,3.5,83,$$,2,49.26986,-123.13792
+JJ's Kitchen,1-5775 Marine Drive,Breakfast & Brunch,2.5,10,,0,49.35907268063095,-123.26708013002472
+Van Tea Cafe,5688 Main Street,Cafes,3.5,52,$$,2,49.233265,-123.1013951
+Antojos y Sabores,1605 West 5th Avenue,Mexican,4.5,7,,0,49.2673589,-123.1412788
+Bombay Masala Indian Restaurant,4473 West 10th Avenue,Indian,4.5,15,,0,49.26407,-123.20835
+Salade de Fruits Cafe,1551 West 7th Avenue,French,4.0,172,$$,2,49.2655161,-123.1401237
+Donair Town Robson,1793 Robson Street,Donairs,4.5,78,$,1,49.2914429,-123.1351318
+Dundas Eat + Drink,2077 Dundas Street,Vietnamese,4.5,70,$$,2,49.285084,-123.062273
+Sushi Bar Shu,8099 Granville Street,Sushi Bars,4.5,56,$$$$,4,49.2124168,-123.1405762
+Burgoo Bistro,3 Lonsdale Ave,Comfort Food,4.0,252,$$,2,49.31054,-123.0802329
+Jjang Korean BBQ,115-5668 Hollybridge Way,Barbeque,4.0,8,,0,49.1737042,-123.1473941
+The Bridge House Cafe,3650 Capilano Road,Sandwiches,4.5,15,$$,2,49.3427831727771,-123.114331220163
+The Crab Shop,2455 Dollarton Highway,Seafood,3.5,58,$$,2,49.30595,-123.00878
+Cafe Orso,4316 Gallant Avenue,Cafes,4.0,67,$$,2,49.3270437,-122.9515709
+Masayoshi,4376 Fraser Street,Sushi Bars,3.5,106,$$$$,4,49.2458995,-123.0900077
+Tamarind Hill Malaysian Cuisine,1440 Lonsdale Avenue,Malaysian,4.0,123,$$,2,49.3217,-123.07181
+Sooda Korean BBQ,4455 Lougheed Highway,Korean,4.0,99,$$,2,49.2666661,-123.0044281
+Brunch,1147 Granville Street,Breakfast & Brunch,4.5,25,,0,49.2778182,-123.1254634
+Octopus Garden,1995 Cornwall Avenue,Japanese,4.0,150,$$$,3,49.2726349,-123.149816
+Oyster Express,296 Keefer Street,Seafood,4.5,164,$$,2,49.2792784082144,-123.097397130932
+Bonjour Vietnam Bistro,3944 Fraser Street,Vietnamese,4.0,74,,0,49.249668,-123.0899331
+Bentoya,500 Robson Street,Japanese,4.0,29,,0,49.2800969076001,-123.118120506406
+Katsuya,1471 Robson St,Japanese,4.0,25,$$,2,49.28869,-123.13056
+Bubble Waffle Cafe,555 W 12th Avenue,Bubble Tea,4.0,16,$,1,49.26086,-123.11629
+Toshi Sushi,181 East 16th Avenue,Sushi Bars,4.0,435,$$,2,49.256699,-123.101936
+Tamam: Fine Palestinian Cuisine,2616 E Hastings Street,Middle Eastern,4.0,157,$$,2,49.281027,-123.051462
+Wang's Shanghai Cuisine,3328 Kingsway,Noodles,4.5,150,$$,2,49.232843,-123.034814
+TAPshack - Coal Harbour,1199 W Cordova Street,Canadian (New),3.5,43,$$,2,49.2898381595055,-123.121286729857
+The Roof,1032 Alberni Street,Seafood,4.0,77,$$$,3,49.2843582,-123.1222877
+Ash Street Bistro,Legacy Senior Living,Bistros,4.5,11,$$,2,49.2337381,-123.1182868
+Sushi Bar Ajisai,2081 West 42nd Avenue,Sushi Bars,4.0,409,$$,2,49.2338978,-123.1540943
+Nando's Peri-Peri,722 Park Royal South,African,4.0,16,$$,2,49.32609287,-123.13602295459226
+Boiling Point,4148 Main St,Taiwanese,3.5,87,$$,2,49.2482041,-123.1009003
+Legendary Hot Pot,796 Main Street,Hot Pot,4.0,21,$$$,3,49.3257759,-123.1404864
+Weirdo Cafe,6459 Victoria Drive,Cafes,4.0,79,$$,2,49.2257548,-123.0659564
+Mountaintop Beef House,8542 Granville street,Chinese,4.5,2,,0,49.2089831,-123.1402972
+Tacofino Oasis,122-1050 W Pender,Mexican,4.0,33,$$,2,49.2868011349216,-123.119574934244
+InGrain Pastificio,1133 Mount Seymour Road,Italian,4.5,43,$$,2,49.3166,-122.96926
+Seaside Provisions,125 Victory Ship Way,Tapas/Small Plates,4.0,38,,0,49.30998,-123.078463544705
+Convivial Cafe and Bakery,680A Leg In Boot Square,Cafes,4.5,10,,0,49.2675426,-123.1196639
+The Locus,4121 Main Street,Lounges,4.0,263,$$,2,49.2485,-123.10147
+Avo House,1509 Robson Street,Sushi Bars,5.0,1,,0,49.289015,-123.131184
+Via Pasta,208 Keefer St,Italian,4.0,13,,0,49.279361,-123.099308
+Niu Niu BBQ Restaurant,2993 Granville Street,Japanese,4.0,2,,0,49.259078,-123.139147
+Mr Red Cafe,2131 E Hastings Street,Vietnamese,4.0,202,$$,2,49.281317,-123.060882
+Dang Anh Cafe,5186 Victoria Drive,Vietnamese,4.5,82,$$,2,49.2376581,-123.0652216
+Yanaki Sushi,816 6th Avenue W,Japanese,4.0,76,$$,2,49.2657961,-123.1219663
+Masa Japanese Restaurant,1418 W Broadway,Japanese,3.5,145,$$,2,49.2635194,-123.1369059
+Land & Sea Restaurant & Bar,1864 W 57th Avenue,Japanese,4.0,51,$$$,3,49.21921,-123.1494
+Devil's Elbow Ale & Smoke House,562 Beatty Street,Gastropubs,3.5,191,$$,2,49.2801437,-123.1098099
+The Belgard Kitchen,55 Dunlevy Avenue,Tapas/Small Plates,4.0,208,$$,2,49.2843189,-123.0953933
+Kaide Sushi,1375 Richards Street,Sushi Bars,4.5,238,$$,2,49.2742161,-123.1270679
+Japadog,530 Robson Street,Hot Dogs,4.0,811,$,1,49.2802668,-123.1184049
+Egg & Co,4245 Fraser Street,Breakfast & Brunch,4.0,61,$$,2,49.2470515,-123.0903867
+Maruhachi Ra-Men,270 Robson Street,Ramen,4.0,251,$$,2,49.27854065320407,-123.1157914
+Manpuku Bento,288 E Pender Street,Japanese,4.5,40,,0,49.2802491373977,-123.097699172795
+Chelo,1078 Marine Drive,Middle Eastern,4.5,3,,0,49.324271,-123.104027
+Dalina,992 W Broadway,Coffee & Tea,4.0,21,,0,49.2632496465408,-123.126448765397
+Heritage Asian Eatery,1108 W Pender Street,Breakfast & Brunch,3.5,184,$$,2,49.2874921,-123.1208077
+Moltan Roll Bar + Sake,1941 Cornwall Avenue,Japanese,4.0,37,,0,49.2726666,-123.1486987
+One Under,476 Granville Street,Sports Bars,4.0,40,$$,2,49.2846904,-123.1145086
+Lao Cai Dining & Entertainment,130-1425 Marine Dr,Chinese,4.5,21,,0,49.3281816,-123.1549893
+taps & tacos,W 6th Ave & Manitoba St,Street Vendors,4.5,2,,0,49.26562,-123.10674
+Autostrada,350 W Pender st,Italian,4.0,30,,0,49.2823159,-123.1114907
+East is East,4433 Main Street,Middle Eastern,4.0,486,$$$,3,49.2452136,-123.1014916
+Sawasdee Thai Restaurant,4250 Main Street,Thai,4.0,331,$$,2,49.24703,-123.1008
+Bing and Noodles World,8185 Granville St,Chinese,4.0,23,,0,49.2117614,-123.1405989
+Best Bite Donair,1091 Davie Street,Poutineries,4.0,29,$,1,49.2803206589938,-123.130853958428
+Kwan Luck Restaurant,2516 Kingsway,Chinese,4.5,27,$$,2,49.2397118,-123.0541382
+Dockside Restaurant,1253 Johnston Street,Seafood,3.0,266,$$$,3,49.2693844631928,-123.13101576314
+Burgoo Bistro,4434 10th Avenue W,Comfort Food,4.0,129,$$,2,49.2635099,-123.20713
+Hủ Tiếu Hồng Phát,5076 Victoria Drive,Noodles,4.0,12,,0,49.238338,-123.065047
+Sprezzatura,265 Kingsway,Pizza,4.0,49,,0,49.2613547,-123.0978287
+Harvest Deli,2963 W Broadway,Delis,4.5,142,$,1,49.2642749,-123.1715916
+Subway,2079 Dundas Street,Sandwiches,1.5,32,$$,2,49.2850075,-123.0619513
+Beanstalk Bistro,1496 Cartwright Street,American (Traditional),3.5,5,,0,49.2702199,-123.1356738
+Turquoise Goat Board Game Cafe,122 W Hastings Street,Tabletop Games,5.0,1,,0,49.281952,-123.108033
+Yuji's From Japan,2083 Alma Street,Sushi Bars,4.0,50,$$,2,49.26829655056762,-123.18604454110447
+Jamjar Canteen,6035 University Boulevard,Lebanese,4.0,37,$$,2,49.2662351,-123.2475496
+Off the Tracks Espresso Bar and Bistro,1363 Railspur Alley,Cafes,3.5,64,$$,2,49.2704079,-123.1340809
+Baby Dhal Roti Shop,2707 Commercial Drive,Caribbean,4.0,16,,0,49.26029225937164,-123.0700069132788
+Sing Sing,2718 Main Street,Beer Bar,3.5,118,$$,2,49.2607122038635,-123.100685477257
+Score on Davie,1262 Davie Street,Sports Bars,4.5,343,$$,2,49.2823221457395,-123.134614739512
+Lucy's Eastside Diner,2708 Main Street,Diners,3.0,338,$$,2,49.2609143,-123.1008146
+Sushi Bang,2315 Cambie St,Japanese,2.5,26,,0,49.2647407188872,-123.115054406226
+Corduroy,1943 Cornwall Ave,Bars,4.0,78,$$,2,49.2726149,-123.1486931
+Sip Bowl La Mian,2255 W 41 Ave,Chinese,3.5,87,$$,2,49.2347871,-123.1588421
+Social,1812 Commercial Dr,Gastropubs,3.5,18,$$,2,49.26848,-123.06947
+Deja Brew,943 W Broadway,Coffee & Tea,4.5,52,$$,2,49.2636604,-123.1251297
+Tendon Kohaku,6063 Silver Drive,Japanese,4.0,10,,0,49.2278910406839,-123.00348046083376
+Daisy Garden Kitchen,142 E Pender St,Barbeque,3.0,11,,0,49.28016,-123.10131
+852 Kitchen,4963 Joyce Street,Food Delivery Services,4.5,2,,0,49.2396,-123.03102
+#CHIBOP,1805 Rosser Avenue S,Korean,4.5,6,,0,49.2677387,-123.0064866
+Crab Hot Lau,2141 Kingsway,Hot Pot,4.0,18,$$,2,49.24431,-123.0627
+Shun Fa Noodle House,5763 Victoria Drive,Noodles,3.5,28,$$,2,49.2319963399116,-123.065757080913
+Hapag Ihaw-Ihaw,5432 Victoria Drive,Filipino,4.0,49,$$,2,49.2354429,-123.0653551
+Maxim's Restaurant,257 Keefer St,Bakeries,4.0,25,$$,2,49.27969,-123.09785
+Symphonie Restaurant,1140 Pender Street W,Filipino,4.0,47,$,1,49.287763115894954,-123.12195483585218
+Shameless Buns,5772 Fraser St,Filipino,4.0,19,,0,49.2321494,-123.0904023
+Hendricks Resto-Lounge,433 Robson Street,Lounges,4.0,23,$$,2,49.27984,-123.11688
+L'ufficio,3689 W 4th Avenue,Wine Bars,4.0,8,$$$$,4,49.2687649,-123.1853601
+PappaRoti,1505 Robson Street,Coffee & Tea,4.0,250,$,1,49.2889087,-123.1312063
+Hon's Wonton House,25 E 2nd Avenue,Chinese,3.0,57,,0,49.2694661422672,-123.104120051588
+Pho Khanh Express,910 Beatty Street,Vietnamese,4.0,30,,0,49.2763,-123.11561
+The Garden Strathcona,868 E Hastings Street,Cafes,5.0,36,,0,49.28076,-123.08563
+Addah,555 Gore Avenue,Himalayan/Nepalese,4.5,4,,0,49.27969,-123.09752
+Tacofino,1909 W 4th Ave,Mexican,4.0,27,,0,49.2681862,-123.148206
+Pink Elephant Cafe,5601 Dunbar Street,Coffee & Tea,4.5,5,,0,49.2355585,-123.1854849
+Wildeye Bistro,1385 Main Street,Bistros,5.0,1,,0,49.30556,-123.03485
+I & I Jamaican Restaurant,2528 Kingsway,Caribbean,4.0,19,,0,49.239579,-123.0534672
+The Farmer's Apprentice,1535 W 6th Avenue,French,3.5,180,$$$,3,49.2662176,-123.1395648
+One Noodle,887 W Broadway,Noodles,3.0,13,,0,49.2635900919731,-123.123886249959
+Calabash Bistro,428 Carrall Street,Caribbean,4.0,285,$$,2,49.281004479966,-123.104228199529
+Osita,1728 Commercial Drive,Canadian (New),4.0,2,,0,49.269214143045055,-123.06945685297252
+Mirchi Restaurant,7964 Granville Street,Indian,4.5,106,$$,2,49.21353,-123.13995
+Minerva Restaurant,2411 W 41st Avenue,Pizza,3.5,104,$$,2,49.2346862,-123.1615423
+El Comal,7650 Winston Street,Mexican,4.0,50,$,1,49.247876818077,-122.940112248954
+Bigsby the Bakehouse,4894 Mackenzie Street,Comfort Food,4.0,31,$$,2,49.2425994873047,-123.170082092285
+Yook Korean Grilled BBQ & Bistro,2408 Nanaimo Street,Korean,4.0,88,$$,2,49.2629225,-123.0564851
+Anita's Kitchen,1055 Dunsmuir St,Restaurants,4.5,12,,0,49.28655,-123.12092
+The Hide Out Diner,101-1951 Glen Drive,Breakfast & Brunch,4.5,13,,0,49.2688895,-123.0811837
+Caffe Mira,1225 Burrard St,Cafes,5.0,16,,0,49.2787456,-123.129878
+Chi Vegan,1935 W 4th Avenue,Vietnamese,4.0,201,$$,2,49.2681947,-123.1487738
+Autostrada Osteria,350 W Pender st,Italian,5.0,4,,0,49.2823159,-123.1114907
+I Cafe,2525 Heather St,Chinese,3.0,63,$$,2,49.2630451,-123.1200749
+Vancouver Soup,292 East 1st Avenue,Soup,5.0,4,,0,49.2684296,-123.0976864
+Havana,1212 Commercial Drive,Latin American,3.5,369,$$,2,49.273708,-123.069271
+Mitra Canteen,3034 Main St,Mediterranean,4.0,79,$,1,49.2580931,-123.1009495
+To Live For Bakery,1508 Nanaimo Street,Bakeries,5.0,7,$,1,49.27121199258215,-123.0565958
+Collective Goods Bistro & Grocer,3532 Commercial Street,Grocery,4.0,13,,0,49.2531205,-123.0678002
+Yolks,1598 E Hastings Street,Breakfast & Brunch,4.0,431,$$,2,49.281081,-123.072931
+Nene Chicken,1231 Davie Street,Korean,4.0,13,,0,49.28213556680251,-123.13360992819071
+Lu Lu BBQ,4660 Hastings Street,Barbeque,4.0,13,,0,49.280888,-122.998234
+The Red Wagon,2128 East Hastings Street,Diners,4.0,613,$$,2,49.2810251,-123.0612674
+Burdock,2702 Main Street,Tapas/Small Plates,3.5,174,$$,2,49.26092,-123.10066
+Malaysia St,3932 Fraser Street,Desserts,4.5,8,,0,49.2497846,-123.0899099
+Super Baked,127 West 2nd Avenue,Pizza,5.0,1,,0,49.2694489,-123.1076129
+El Camino's,3250 Main Street,Latin American,3.5,199,$$,2,49.2561154,-123.1010503
+The Italians,1220 Bute Street,Italian,4.0,49,$$$,3,49.2811838,-123.1340286
+Feast & Fallow,305 W 41st Avenue,Cafes,5.0,2,,0,49.233715,-123.112521
+Prospect Point,5601 Stanley Park Drive,Cafes,3.5,82,$$,2,49.3128081868922,-123.142869863626
+Johnny’s On Oak,3838 Oak Street,Italian,4.5,5,,0,49.25143,-123.12723
+The Beeba Boys,8265 Oak St,Halal,4.0,2,,0,49.2109749,-123.1303249
+Coquette,2685 Arbutus Street,Brasseries,4.5,6,,0,49.26212,-123.15324
+East Is East,3035 west Broadway,Middle Eastern,4.0,291,$$,2,49.26430118353472,-123.1726934
+Fable Diner and Bar,755 Richards Street,Diners,4.0,4,,0,49.28081479999999,-123.1171994
+Isetta Cafe Bistro,4360 Marine Drive,Cafes,4.5,12,,0,49.34045457184317,-123.23974695056675
+World Malatang,4320 West  47th Avenue,Hot Pot,2.5,11,,0,49.2288591648701,-123.155003379079
+Caffe Cittadella,2310 Ash Street,Coffee & Tea,4.0,156,$$,2,49.264809386635505,-123.11726668221056
+Whole Food Market,510 W 8th Avenue,Coffee & Tea,4.0,18,$,1,49.2640495,-123.1150513
+Bao Down Gastropub + Raw bar,115 2nd Avenue W,Thai,3.0,240,$$,2,49.2694405,-123.1070806
+Truck Stop Cafe,1046 Clark Drive,Cafes,4.0,19,,0,49.2754522,-123.0771151
+Tenton,1731 Marine Drive,Ramen,4.5,24,,0,49.32888,-123.16099
+The Cascade Room,2616 Main Street,Pubs,4.0,230,$$,2,49.2617,-123.10062
+Word.,555 Great Northern Way,Seafood,5.0,1,,0,49.2669229,-123.0918816
+El Mercat,401 Industrial Avenue,Spanish,4.0,1,,0,49.26999,-123.09588
+Ignite Pizzeria,987 Mainland Street,Pizza,5.0,12,,0,49.27724,-123.11858
+ubuntu canteen,4194 Fraser St,Cafes,4.0,41,,0,49.2475056265672,-123.08996065297
+Sal y Limón,701 Kingsway Street,Mexican,4.0,643,$$,2,49.2569043786921,-123.08924632997
+Sciué,101 Robson St,Pizza,4.0,16,$,1,49.2778975,-123.1141781
+Gotham Steakhouse & Bar,615 Seymour Street,Steakhouses,4.0,407,$$$$,4,49.2829254,-123.115793
+LOT185 Cafe + Wine Bar,78-1055 Canada Place,Cafes,4.5,9,,0,49.28971,-123.11607
+Basil Pasta Bar,636 Davie Street,Italian,3.5,397,$$,2,49.2765809,-123.1255818
+Roosh,2 Water Street,Fondue,4.0,10,,0,49.2833758,-123.1043507
+Fish And  Chips,Seaside Bicycle Route,Seafood,0.0,0,,0,49.2786521911621,-123.14493560791
+bb.q Chicken,1517 Robson Street,Barbeque,4.5,7,,0,49.28907416276772,-123.13127808272839
+River's Sushi,678 W Broadway,Japanese,5.0,3,,0,49.26297,-123.11923
+The Ramen Butcher,223 E Georgia Street,Ramen,3.5,373,$$,2,49.2786522,-123.0986176
+Via Tevere Pizzeria,1190 Victoria Drive,Italian,4.0,326,$$,2,49.27387530438791,-123.06553445802783
+True Nosh,1450 West 7th Avenue,Health Markets,5.0,15,,0,49.26519453276414,-123.1370909
+Zakkushi on Denman,823 Denman Street,Japanese,4.0,239,$$$,3,49.29108,-123.13643
+The Kitchen Dada,2535 Alma Street,Japanese,4.0,39,,0,49.264037087133,-123.186078295112
+Hanoi Pho Restaurant,406 E Hastings Street,Vietnamese,4.0,63,$,1,49.2811151,-123.09522
+The Victor,39 Smithe Street,Steakhouses,3.5,230,$$$$,4,49.27540569887477,-123.1121986054184
+Baghdad Cafe,548 Seymour Street,Middle Eastern,4.0,90,$,1,49.2833412,-123.1146198
+Soondae Town,202-1610 Robson Street,Korean,4.5,9,,0,49.289255,-123.13288
+Zakkushi Dining On Main,4075 Main Street,Japanese,4.0,210,$$,2,49.24910063019759,-123.1015460312003
+Siegel's Bagels,134-1689 Johnston Street,Bagels,4.0,146,$,1,49.2726237,-123.1356235
+HK B.B.Q. Master,4651 No 3 Road,Chinese,4.0,522,$$,2,49.17959228769049,-123.13782401377117
+Capo & The Spritz,350 Davie Street,Pizza,3.5,26,,0,49.2748359,-123.1228907
+Heirs Pears,605 Nelson Street,Sandwiches,4.0,69,$,1,49.2788701,-123.1221778
+Fa Ji Noodles,5438 Victoria Drive,Noodles,4.5,2,,0,49.2354608,-123.0653551
+Sushi Hil,3330 Main Street,Japanese,4.5,15,,0,49.2554661,-123.1011451
+Menya Itto,1479 Robson Street,Ramen,3.5,34,$$,2,49.28861730000001,-123.13068062067033
+MeeT on Main,4288 Main Street,Comfort Food,4.0,468,$$,2,49.2467145032391,-123.100830778711
+The Burrow,2781 Commercial Drive,Mexican,4.0,505,$$,2,49.2597591,-123.0700099
+Bells and Whistles,3296 Fraser Street,Burgers,3.0,118,$$,2,49.2556805042778,-123.089684071771
+Mr Bro Korean Bistro & Izakaya,8580 Alexandra Road,Korean,4.0,80,$$,2,49.17817691704061,-123.12766199013662
+Enzo’s Rustico Romano,2492 E Hastings Street,Italian,4.5,2,,0,49.28088,-123.05489
+Mamalee Malaysian Delight,3144 W Broadway,Singaporean,3.5,173,$$,2,49.2640629,-123.1753687
+Mr Shawarma,655 Burrard St,Middle Eastern,4.5,173,$,1,49.28526,-123.12075
+Pokérrito,558 Dunsmuir Street,Sushi Bars,4.0,192,$$,2,49.282665,-123.1152546
+Basil Box,810 Burrard Street,Asian Fusion,4.0,23,,0,49.2829154885879,-123.123093321919
+Dumpling House,3141 Kingsway,Chinese,4.5,97,$$,2,49.23555594699692,-123.0386874279929
+Dachi,2297 E Hastings Street,Wine Bars,4.0,31,$$,2,49.2813958763596,-123.058002479374
+ZUBU,2129 West 41st Avenue,Ramen,4.0,42,,0,49.234701,-123.156413
+Shizenya on Broadway,1333 W Broadway,Japanese,4.0,145,$$,2,49.263875,-123.134264
+Take Five Cafe,683 Nicola Street,Breakfast & Brunch,4.5,23,$,1,49.2903006867126,-123.128923385245
+The Paper Crane,531 E Broadway,Cafes,4.0,25,$,1,49.2626112,-123.0922038
+Bufala Edgemont Village,3280 Edgemont Blvd,Cocktail Bars,4.0,20,,0,49.3391409155693,-123.103837992032
+Tsujiri,13100 Smallwood Place,Japanese,4.5,9,,0,49.170838,-123.0791316
+Boulevard,845 Burrard Street,Seafood,4.0,270,$$$,3,49.2827182,-123.123884
+Rayhan,3170 Oak Street,Mediterranean,4.0,20,,0,49.2572592,-123.1271051
+Russian Spoon,FC 12- 555 West Hastings Street,Russian,4.5,22,,0,49.2846468961917,-123.112365626597
+Feast,2423 Marine Drive,Breakfast & Brunch,4.0,82,$$,2,49.3344237,-123.1802382
+The Cider House,1602 Yew Street,Cideries,4.5,23,,0,49.2714834306239,-123.154953740237
+The PokéMan,3742 10th Avenue W,Poke,4.5,84,$$,2,49.263233674428754,-123.18671230226755
+Moltaqa Moroccan Restaurant,1002 Mainland St,Moroccan,4.5,12,,0,49.27642,-123.11897
+The Golden Horn Turkish Bakery & Cafe,2857 Cambie Street,Coffee & Tea,5.0,7,,0,49.25981092848732,-123.11528339982033
+Cardero Cafe,1105 Davie St,Coffee & Tea,5.0,14,,0,49.280603,-123.131219
+Fishworks,91 Lonsdale Avenue,Seafood,4.0,191,$$,2,49.3117815,-123.0789458
+Baghven Uyghur Cuisine,3369 Cambie St,Chinese,4.0,9,,0,49.25539018302986,-123.11532530933617
+China Lan Beef Noodle,5555 W Boulevard,Noodles,4.0,44,$$,2,49.2359557748092,-123.15564021118
+Claudio's,103-4402 Skyline Drive,Italian,3.5,18,,0,49.2655509,-123.00503320991993
+Kahve Cafe By Enflux,1822 W 1st Avenue,Cafes,4.0,43,$,1,49.27059,-123.14597
+Kisokoma,805 W Broadway,Japanese,3.5,33,$,1,49.26379,-123.12224
+Bonjour Banh Mi,5556 Cambie Street,Vietnamese,4.5,27,,0,49.2348674,-123.1158155
+Alphabet City,4242 Main Street,Bars,5.0,9,,0,49.24712,-123.10077
+Le Petit Belge,1007 Main Street,Coffee & Tea,4.5,9,,0,49.2757387768416,-123.100187199709
+Yuwa Japanese Cuisine,2775 W 16th Ave,Japanese,4.0,39,$$$,3,49.2578849,-123.168008
+The Boathouse Restaurant,1305 Arbutus St,Seafood,2.5,234,$$,2,49.2742938898371,-123.153669834137
+The 515 bar,521 Seymour Street,Beer Bar,4.5,2,,0,49.283842,-123.1144244
+Red Burrito,2328 Cambie Street,Mexican,1.0,1,,0,49.2645544,-123.1144752
+Tacofino Ocho,8 East 5th Ave,Mexican,3.0,85,$$,2,49.2663679970952,-123.104530161055
+Nemesis Coffee,101 Carrie Cates Court,Bakeries,4.0,40,$$,2,49.310175898969426,-123.08073671864996
+41 Noodle & Rice Pot House,2279 West 41st Avenue,Chinese,4.0,46,$$,2,49.2347908,-123.1592245
+Tocador,2610 Main Street,Latin American,3.5,47,$$,2,49.261764,-123.1008072
+Sushi Sonoya,345 Robson Street,Japanese,4.0,29,,0,49.279331,-123.115997
+The Press Room,1778 Columbia Street,Bakeries,4.0,11,$,1,49.2694971,-123.1092951
+ocean wise cafe,845 Avison Way,Cafes,4.0,1,,0,49.299825280260286,-123.13128958855212
+The Beach House Restaurant,150 - 25th Street,Seafood,3.5,174,$$$,3,49.33336,-123.18215
+COFU Pressed Sushi,103 -1833 Anderson Street,Japanese,4.5,9,,0,49.26929877489593,-123.13902429772695
+Takenaka,1370 Georgia Street,Japanese,4.5,38,,0,49.2783093,-123.0755801
+Congee Noodle Delight,1021-88 W Pender Street,Chinese,3.5,89,$,1,49.2805896869679,-123.106225075342
+La Playita,360 Cambie Street,Seafood,5.0,1,,0,49.282651,-123.109343
+Anatoli Souvlaki,5 Lonsdale Avenue,Mediterranean,4.0,161,$$,2,49.3108061,-123.0797624
+Captain's Oven Pizza,1110 W Pender Street,Pizza,4.5,29,,0,49.287574432889535,-123.121025
+Tour De Feast,319 Mountain Highway,French,4.5,300,$$,2,49.3074,-123.03223
+Szechuan Chili,804 W 6th Avenue,Chinese,3.5,53,$,1,49.2657951,-123.1219401
+Re-Up BBQ,810 Quayside Drive,Barbeque,4.0,174,$$,2,49.2000834965815,-122.911374465514
+Pho Xe Lua 24,3346 Cambie Street,Vietnamese,4.0,112,$$,2,49.2554137,-123.1149178
+Blnd Tger Dumplings,251 East Georgia Street,Dumplings,2.0,26,,0,49.278654766782815,-123.0980207
+Haru Korean Kitchen,324 Cambie Street,Korean,3.5,59,$$,2,49.2828429,-123.1092103
+Ekki Sushi,146-1150 Station Street,Sushi Bars,4.5,3,,0,49.27377,-123.09797
+Frankie's Jazz Club,765 Beatty Street,Italian,4.0,44,$$,2,49.2779493,-123.1137363
+Las Tortas,3353 Cambie Street,Mexican,3.5,102,$$,2,49.2554,-123.11561
+Café Gloucester,3338 Cambie Street,Chinese,3.5,143,$$,2,49.25552,-123.11472
+C-Lovers Fish & Chips,1660 Pemberton Ave,Seafood,4.0,69,$$,2,49.3245325372457,-123.107577995149
+Kranky Cafe,228 E 4th Avenue,Coffee & Tea,4.0,39,$,1,49.267041,-123.0997387
+Thai Basil,1215 Thurlow St,Thai,3.5,215,$,1,49.2803153,-123.1315538
+Kokomo,611 Gore Avenue,Salad,4.5,60,$$,2,49.2791942589031,-123.097285803604
+Union Latino’s,1149 Granville Street,Spanish,5.0,2,,0,49.2778876,-123.125733
+Epic Grill Silogs + Sans Rival,538 Ewen Avenue,Filipino,4.0,60,$$,2,49.190376,-122.9364904
+Fresh Donair,1009 Granville Street,Donairs,4.5,34,$$,2,49.2792016361722,-123.12335201658
+Tap & Barrel - Olympic Village,75 Athletes Way,American (Traditional),3.0,445,$$,2,49.2715389,-123.106136
+Nando's Peri-Peri,828 Davie Street,Portuguese,3.5,202,$$,2,49.27783675,-123.12770023
+Tasty Indian Bistro,1261 Hamilton Street,Indian,4.0,192,$$,2,49.2744011,-123.1236818
+Papparoti,193 Keefer Place,Coffee & Tea,4.5,34,$$,2,49.2799385,-123.1081741
+Horin Tonkotsu Ramen ,1226 Robson Street,Ramen,4.0,142,$$,2,49.28617,-123.12749
+Tacofino Commissary,2327 E Hastings St,Mexican,4.0,309,$$,2,49.281311298366035,-123.0574981
+Planetary Burger,3088 Main Street,Burgers,4.5,40,$$,2,49.257755,-123.100984
+Seasons In the Park,Queen Elizabeth Park,Seafood,4.0,493,$$$,3,49.2416705486198,-123.112535476685
+Barra 41,2407 West 41st Avenue,Mediterranean,4.0,23,$$,2,49.2347889800047,-123.161461915346
+Nobu Japanese Sushi,3197 Edgemont Boulevard,Japanese,3.5,17,$$,2,49.33825,-123.10336
+ChiMec Fried Chicken & Burger,835 Denman St,Chicken Shop,4.5,32,,0,49.2910011464331,-123.136401101947
+Chancho Tortilleria,560 Davie Street,Mexican,4.0,87,$$,2,49.27618,-123.12515
+Wooden Fish,1403 Marine Dr,Vietnamese,4.0,45,,0,49.3280625478098,-123.154480867088
+Caffe Di Beppe,2 W Cordova Street,Cafes,4.5,16,,0,49.28235624721356,-123.1045101
+Yuzu,3096 Cambie Street,Sandwiches,3.0,2,,0,49.2580042,-123.1149151
+Aroom Cafe,3720 Oak Street,Cafes,5.0,1,,0,49.2524615,-123.1272607
+Tae’s Korean Cuisine,8636 Granville Street,Korean,4.5,6,,0,49.20808947167019,-123.1400808
+Steamworks Brewing Company,375 Water Street,Pubs,3.5,771,$$,2,49.28498,-123.11084
+Dutch Wooden Shoe Cafe,3292 Cambie Street,Modern European,3.5,103,$$,2,49.2560017,-123.114899418709
+R&B Ale & Pizza House,54 E 4th Avenue,Pizza,4.0,23,$$,2,49.2671,-123.10356
+Shishlik Grill House,1629 Lonsdale Avenue,Persian/Iranian,4.0,2,,0,49.32368567984682,-123.072535
+Angus T,1036 Mainland Street,Cafes,4.0,87,$,1,49.2762326068102,-123.119233623147
+"Juke Fried Chicken, Ribs and Cocktail Bar",182 Keefer Street,American (Traditional),3.5,318,$$,2,49.2793701,-123.1008339
+Finch & Barley,250 East 1st Street,Middle Eastern,4.0,58,$$,2,49.3095258234842,-123.073179759085
+Green & Oak Malaysian Restaurant,3760 Hastings Street,Malaysian,4.0,103,$$,2,49.28081,-123.02185
+Arms Reach Bistro,4390 Gallant Avenue,Canadian (New),4.0,175,$$,2,49.3268742453723,-122.94936260423
+Royal Seoul House Korean Restaurant,1215 Broadway W,Korean,3.0,104,$$,2,49.2634961,-123.1317034
+Field & Social,415 Dunsmuir Street,Salad,4.0,65,$$,2,49.2819654,-123.113625
+Jitlada,118 W 6th Avenue,Thai,5.0,4,,0,49.2654937,-123.1071619
+Kinkura Sushi + Sake,656 Davie Street,Japanese,4.5,4,,0,49.2768209,-123.1259399
+Nicli Antica Pizzeria,3142 Highland Boulevard,Pizza,3.5,50,,0,49.337742,-123.1012252
+CRAFT Beer Market,1795 Beach Avenue,Beer Bar,4.0,29,,0,49.2864807,-123.142214
+Papi's Seafood and Oyster Bar,1193 Denman Street,Seafood,3.5,50,,0,49.2877438,-123.1413624
+Kind Cafe,3080 Main Street,Cafes,4.0,41,$$,2,49.25774,-123.10083
+Hellcrust Pizza,433 Seymour Street,Pizza,4.5,5,,0,49.28463,-123.11314
+Honolulu Coffee,2098 W 41 Avenue,Cafes,4.0,69,$$,2,49.2344086532541,-123.154816643939
+Me + Crepe,5971 West Boulevard,Chinese,3.5,15,,0,49.2321356,-123.1558793
+Petite Bao,2825 West Broadway,Burgers,5.0,1,,0,49.264246943743714,-123.1690986
+TurF,2041 W 4th Avenue,Cafes,4.0,52,$$,2,49.2682200041763,-123.151621297002
+Tractor,1751 Quebec Street,Salad,3.0,47,$$,2,49.2695864693285,-123.102856641256
+Duso's Italian Foods,120-1689 Johnston Street,Cheese Shops,4.0,19,$$,2,49.2726237,-123.1356235
+Chop Steakhouse & Bar,1055 Canada Place,Steakhouses,4.5,4,,0,49.28853572427664,-123.11514429303064
+Mi Casa Mexicana,2015 Burrard Street,Mexican,4.0,25,,0,49.267770749603,-123.145790439504
+Lemon Fusion Kitchen and Bar,575 West Georgia Street,Bars,4.5,3,,0,49.281725,-123.116595
+Bánh Mì Très Bon,1840-4720 McClelland Road,Vietnamese,4.0,307,$$,2,49.1777306122266,-123.121295915089
+Troller Ale House,6342 Bay Street,Pubs,3.0,42,$$,2,49.3743183,-123.2735015
+Archer,1152 Alberni Street,Desserts,4.0,13,,0,49.2859851,-123.1251502
+Centre Culturel Francophone De Vancouver - Ccfv,1551 7th Avenue W,French,4.5,2,,0,49.2655161,-123.1401003
+Tasty Torpedo,547 E Hastings,Food Trucks,4.0,6,$$,2,49.28149,-123.0921
+Firecrust,808 Davie Street,Pizza,4.0,139,$$,2,49.2777868,-123.1274639
+Terra Breads,1605 Manitoba Street,Bakeries,4.0,133,$$,2,49.27144458615277,-123.1067987907931
+Sansho Sushi & Japanese Dining,707 Queensbury Avenue,Japanese,4.5,79,$$,2,49.3126373,-123.0572739
+Autostrada,1481 Continental Street,Wine Bars,3.5,9,,0,49.274438,-123.1309022
+BOGO Korean Kitchen,53 W Broadway,Korean,4.0,5,,0,49.2632045083367,-123.106305973945
+Baggio Gelateria & Pizzaeria,1089 Marinaside Crescent,Italian,3.0,59,$$,2,49.2736411,-123.1184303
+Wakwak Burger,511 Granville Street,Burgers,4.0,34,$,1,49.2845981,-123.1151894
+Tomahawk Barbeque,1550 Philip Avenue,Barbeque,3.0,215,$$,2,49.32276,-123.11297
+Ganbei Izakaya Japanese Restaurant,133-4800 No 3 Road,Japanese,4.5,8,,0,49.179037334275435,-123.13536451346614
+Los Cuervos Taqueria Y Cantina,603 Kingsway,Mexican,4.0,181,$$,2,49.2574755005862,-123.091043941677
+Saucin Staples,1073 W Broadway,Indian,4.5,18,,0,49.2637181,-123.1283372
+Red Umbrella Cafe,1707 Davie Street,Breakfast & Brunch,3.5,192,$$,2,49.28666,-123.14036
+Nene Chicken,1070 Kingsway,Korean,3.5,26,,0,49.253203218037754,-123.08245800522919
+Pizzeria Grano,3240 Main Street,Pizza,4.5,22,,0,49.2561903,-123.1010467
+Pampanga’s Cuisine,6094 Fraser Street,Filipino,3.5,7,,0,49.2292835,-123.0904266
+Hashigo - Sake Dining ,1265 Granville St,Japanese,4.5,3,,0,49.27658,-123.12765
+Tropika On Cambie,2975 Cambie Street,Malaysian,3.0,171,$$,2,49.2589,-123.11538
+The Only Cafe,2678 W 4th Avenue,Cafes,4.5,73,$$,2,49.2682143637918,-123.165559578504
+The Spud Shack Fry,800 Carnarvon Street,Belgian,4.0,188,$$,2,49.2014705081833,-122.913423193832
+Per Se Social Corner,891 Homer Street,Pizza,3.5,228,$$,2,49.2785831916346,-123.118480343303
+Dalina,687 Main Street,Grocery,4.5,80,$$,2,49.27871720471554,-123.1000357527092
+Urban Tadka,1370 E Georgia St,Indian,5.0,9,,0,49.27827,-123.07566
+D/6 Bar & Lounge,39 Smithe Street,Tapas Bars,3.5,45,$$$,3,49.2752965096471,-123.113096505959
+Mangia E Bevi Ristorante,2222 Marine Drive,Italian,4.5,30,$$$,3,49.3310728,-123.1722662
+Tsuki Sushi Bar,509 Abbott Street,Sushi Bars,4.0,193,$$,2,49.2809829711914,-123.10765838623
+Casa di Amici Restaurant,1747 Marine Drive,Italian,4.0,47,$$$,3,49.3287949,-123.1612972
+Provence Marinaside,1177 Marinaside Crescent,Seafood,3.5,354,$$$,3,49.2733385,-123.1194637
+Hungry Guys Kitchen,988 Granville Street,Salad,4.0,88,$,1,49.2793016,-123.1226759
+Kwong Chow Congee & Noodle House,3163 Main St,Chinese,3.5,127,$$,2,49.257,-123.10151
+Catch 122,128 Carrie Cates Court,Breakfast & Brunch,4.0,529,$$,2,49.310622086874794,-123.08068186441781
+Yugo Restaurant,4265 Main Street,Japanese,4.0,113,$$$,3,49.24753,-123.10152
+Le Petit Saigon,2783 Hastings Street E,Vietnamese,4.0,219,$,1,49.2812749,-123.0473489
+Izakaya Gon's,854 Denman Street,Japanese,3.5,61,,0,49.2904696,-123.136696
+The Cranky Old Fork,200-1001 West Broadway,Pizza,5.0,1,,0,49.26375,-123.12711
+JOY Cafe,525 SW Marine Dr,Cafes,3.5,27,$$,2,49.2098293,-123.1182943
+Cioppino's Mediterranean Grill,1133 Hamilton Street,Mediterranean,4.0,194,$$$$,4,49.275522,-123.121794
+Xi'an Cuisine,8260 Westminster Highway,Chinese,4.0,82,$,1,49.1700051,-123.1331254
+Pacific Poke,625 Main Street,Hawaiian,4.5,148,$$,2,49.2789026,-123.0999663
+L'Orangerie Dining Room & Loung,788 Richards Street,Tea Rooms,4.5,5,,0,49.2805155384128,-123.116902448237
+Jang Mo Jib,808 Bute Street,Korean,3.0,18,$,1,49.2857582,-123.1271311
+OEB Breakfast Co,4525 Lougheed Highway,Breakfast & Brunch,4.0,206,$$,2,49.26653801731451,-123.00198868952727
+El Inka Latin Deli,3826 Sunset Street,Peruvian,4.5,56,$$,2,49.24941,-123.01912
+Chili Pepper House,3003 Kingsway,Hakka,4.0,160,$$,2,49.2362803933814,-123.04171188163
+Mordimi Bite Of Italy,2638 East Hastings Street,Italian,4.5,13,,0,49.2810168408546,-123.050953634083
+Ignite Pizzeria,508 W Cordova St,Pizza,4.5,44,$,1,49.2847587936463,-123.111099839934
+MeetRice Noodle,4488 Main Street,Chinese,4.0,18,,0,49.24461,-123.10088
+Field & Social,18 E 5th Avenue,Salad,3.5,2,,0,49.2663416,-123.1042597
+Paul's Omelettery Restaurant,2211 Granville Street,Breakfast & Brunch,4.0,299,$$,2,49.26597,-123.1389
+Fassil Ethiopian Restaurant,736 Broadway E,Ethiopian,4.5,144,$$,2,49.262316686122,-123.08833077466
+1931 Gallery Bistro,750 Hornby Street,Breakfast & Brunch,4.0,45,,0,49.2830721,-123.1208098
+Z&W Shanghai,2126 W Broadway,Chinese,4.0,22,,0,49.2635679666207,-123.153370158669
+La Fourchette,1951 Glen Drive,Breakfast & Brunch,4.0,6,$,1,49.2692777,-123.0814128
+Chez Michel,1373 Marine Drive,French,4.0,10,,0,49.3279271,-123.153559
+JINYA Ramen Bar - Vancouver,541 Robson St.,Ramen,4.0,406,$$,2,49.28031515071204,-123.11793569570304
+The Stable House Bistro,1520 W 13th Avenue,French,4.0,97,$$,2,49.2597322720703,-123.140207185371
+The Flying Whale Waterfront Cafe,201 - 999 Canada Place,Cafes,5.0,1,,0,49.2892871686,-123.110275449
+Uno Beef Noodle,135 - 2811 Number 3 Road,Noodles,4.5,50,$$,2,49.193218109957115,-123.12980856746434
+Kuma Japanese Restaurant,3446 Dunbar Street,Japanese,4.0,62,$$,2,49.2559752144088,-123.18496362209
+Delhi 6 Indian Bistro,1766 W 7th Avenue,Indian,4.5,128,$$,2,49.2653386,-123.1449329
+Salmon House On the Hill,2229 Folkestone Way W,Seafood,4.0,130,$$$,3,49.34470238694839,-123.17436977605743
+Quesada Burritos and Tacos,1055 Canada Place,Mexican,4.5,3,,0,49.28914,-123.11606
+Smitty’s Oyster House,3124 Main St,Seafood,3.5,9,,0,49.25709,-123.10085
+CRAFT Beer Market,85 W 1st Avenue,Beer Bar,3.5,514,$$,2,49.2702147,-123.1060713
+Popina Canteen,1691 Johnston St,Burgers,3.0,78,,0,49.2726262,-123.1356265
+Old Beijing Roast Duck,1643 W Broadway,Chinese,2.0,60,$$$$,4,49.26394,-123.14211
+Cantina Norte,3246 Connaught Crescent,Mexican,4.0,9,,0,49.3388201282967,-123.10217644307914
+NOVO Pizzeria & Wine Bar,2118 Burrard Street,Wine Bars,4.0,152,$$,2,49.2666178,-123.1454221
+R&B Brewing,54 E 4th Avenue,Breweries,4.0,68,$,1,49.267258962520614,-123.10330380118866
+La Cigale French Bistro,1961 W 4th Avenue,French,4.0,151,$$,2,49.2683296,-123.1494293
+Hoshi Japanese Cuisine,1010 Beach Avenue,Japanese,4.0,22,,0,49.27598,-123.1340381
+Scratch Kitchen,437 N Dollarton Highway,Pizza,4.5,47,,0,49.307353,-122.953891
+Viet Mama Cafe,5118 Victoria Drive,Vietnamese,4.0,63,,0,49.2379348,-123.0652077
+Klasik Inasal & Noodle Express,650 E Broadway,Filipino,3.5,14,,0,49.2623351,-123.0900107
+Picado,605 West Pender Street,Halal,4.0,3,,0,49.2841935,-123.1139063841478
+Patterson Wonton House,917 Davie Street,Chinese,3.5,43,$,1,49.2786857,-123.1282815
+Pho Gold Train,550 Nelson Street,Vietnamese,4.0,39,$,1,49.2783062037165,-123.121842
+Lucky Taco,1685 Yew Street,Mexican,3.5,59,$$,2,49.2710692786403,-123.155103591134
+Pasta Hero,642 SE Marine Drive,Italian,4.5,2,,0,49.2106336,-123.0923888
+Big Bowl Rice,505 Dunsmuir Street,Taiwanese,3.5,32,$,1,49.2825745,-123.1145572
+Laurelle's Fine Foods,1689 Johnston Street,Bakeries,4.0,37,$,1,49.2726237,-123.1356235
+Flying Fish N Chipper,400 Industrial Avenue,Food Trucks,4.0,6,,0,49.2693508339235,-123.095907457173
+Genki Eki Noodle bar,693 West Broadway,Japanese,3.0,1,,0,49.263459,-123.119582
+Donair Thyme,310 Carrall Street,Donairs,0.0,0,,0,49.28211,-123.10373
+Prado Cafe,1809 Fir Street,Coffee & Tea,4.0,14,,0,49.269532,-123.1409449
+FRESH Sushi,909 Expo Boulevard,Japanese,4.0,125,$$,2,49.2757061,-123.1151383
+Mui Ngo Gai,2052 Kingsway,Vietnamese,4.0,218,$,1,49.2445748,-123.0642461
+The Filipino Noodle Joint,111-180 Keefer Street,Filipino,4.0,10,,0,49.27897,-123.10134
+Passion8 Dessert Cafe,3010 Cambie Street,Desserts,4.0,206,$$,2,49.258435242883,-123.11499774456
+Sahel Market & Restaurant,3207 West  Broadway,Persian/Iranian,4.5,31,$,1,49.2643454,-123.176155
+La Petite Crepe,1109 W Pender Street,Creperies,4.0,48,$,1,49.2877669,-123.1207649
+Harbourside Cafe,828 Harbourside Drive,Restaurants,4.0,5,,0,49.3146605,-123.0959665
+Sai Woo,158 East Pender Street,Asian Fusion,3.5,162,$$,2,49.28015,-123.10099
+Al Basha,1937 Cornwall Avenue,Halal,4.0,39,$,1,49.2726149,-123.1486678
+The Ballyhoo Public House,103-888 Burrard Street,Pubs,4.0,8,,0,49.28210210327892,-123.12397015451256
+Stages Bistro & Lounge,711 Broadway W,Lounges,3.0,22,$$,2,49.26376,-123.12046
+Nemesis Coffee,302 W Hastings Street,Cafes,4.5,200,$$,2,49.28281595985871,-123.11027107703038
+Bistro Olé,1180 W Hastings St,Cafes,5.0,1,,0,49.28835,-123.12217
+Budgies Burritos,44 Kingsway,Vegetarian,4.0,281,$,1,49.2634464768729,-123.100247082572
+La La Island,2951 W Broadway,Bakeries,4.5,3,,0,49.26435443750349,-123.171443449561
+Encore Suite,800 Griffiths Way,Sports Bars,4.5,3,$$,2,49.2776420028873,-123.109174971689
+Gokudo Shabu Shabu-Burnaby,4501 Kingsway,Hot Pot,4.5,78,,0,49.230327,-123.003807
+Knight Street Cafe,3911 Knight Street,Cafes,4.5,82,$$,2,49.2497276,-123.0762149
+Kafka's Coffee & Tea,120-577 Great Northern Way,Coffee & Tea,4.5,8,,0,49.2671871611834,-123.09042642394256
+Pudgie's Pizza & Pasta,6620 Royal Avenue,Pizza,4.5,33,$,1,49.3738202,-123.2746456
+Kaori Izakaya,3043 Main Street,Japanese,3.5,40,,0,49.2579727,-123.1013667
+Momiji Japanese Cuisine,3720 Mt Seymour Parkway,Japanese,4.0,39,$$,2,49.3160234,-122.9689644
+Thank You Pizza,789 Gore Avenue,Pizza,5.0,2,,0,49.2777593,-123.0971862
+Sal y Limon Mexican Cuisine,1752 Commercial Drive,Mexican,4.0,9,,0,49.2688592,-123.0693878
+Kyuzo Japanese Restaurant,5701 Granville Street,Japanese,3.0,25,$$,2,49.2340910613824,-123.140119984746
+The Story Cafe Eatery & Bar,2800 Sexsmith Road,Bars,4.0,128,$$,2,49.193649,-123.1279051
+Shanghai Lu,705 W Broadway,Dim Sum,2.5,57,$$,2,49.2634754435166,-123.120027557015
+BT Cafe,920 Kingsway,Coffee & Tea,4.0,92,$,1,49.25415,-123.0852
+Jollibee,833 Granville Street,Chicken Shop,3.0,51,$$,2,49.281154709891986,-123.12067249019566
+Hydra Estiatorio,825 W Pender Street,Mediterranean,3.5,97,$$$,3,49.2856276,-123.1160679
+JJ's Fine Dining,250 W Pender St,Cafes,4.5,16,$$,2,49.2813,-123.11124
+ZUBU,788 Main Street,Ramen,4.0,27,,0,49.32601541461572,-123.13914435135659
+The Narcissus,1701 Powell Street,Cafes,4.5,12,,0,49.28423,-123.06998
+Itosugi Kappo Cuisine,3648 W Broadway,Japanese,4.0,10,,0,49.26423649675246,-123.1848633
+Hy's Steakhouse & Cocktail Bar,637 Hornby Street,Steakhouses,4.0,338,$$$$,4,49.28468,-123.11927
+Hubbub,859 Hornby Street,Sandwiches,4.0,226,$,1,49.2820063076819,-123.12302492559
+Evelyn's Coffee Shop,2176 W Broadway,Diners,4.5,41,$,1,49.2637323,-123.1548308
+Pizzeria Ludica,189 Keefer Place,Pizza,4.0,179,$$,2,49.2800427277576,-123.108486811639
+Kinemi's Kitchen,7751 Champlain Crescent,Pizza,4.0,78,$$,2,49.2142196,-123.0301573
+Belvedere Cafe,1455 Quebec Street,Food Trucks,4.0,3,$$,2,49.273353,-123.10388
+Four Winds Brewing,4-7355 72nd Street,Mexican,4.5,60,$$,2,49.13632,-123.026946
+ZamZam,2128 Kingsway,Middle Eastern,4.5,34,,0,49.2440371,-123.0631221
+The Gray Olive Cafeteria,4190 Hastings Street,Breakfast & Brunch,4.0,211,$$,2,49.2807699,-123.01164
+The Greek,221 Carrall Street,Greek,3.5,32,,0,49.2828288,-123.1044349
+Uva Wine & Cocktail Bar,900 Seymour Street,Wine Bars,4.0,203,$$,2,49.27946,-123.12045
+Siam Le Bien,4217 Hastings St,Thai,4.5,63,$$,2,49.2813,-123.010676
+Fatburger,255 W Broadway,Burgers,3.0,80,$$,2,49.26331,-123.11074
+The Sauce Pasta Cafe,861 Denman Street,Italian,4.0,26,,0,49.2906563,-123.1369526
+Caffe Barney,2975 Granville St,Bars,3.5,147,$$,2,49.25918,-123.13915
+Landmark Hotpot House,4023 Cambie Street,Chinese,4.0,120,$$$,3,49.2498660758194,-123.11556053834
+Tokyo John,3365 Cambie Street,Japanese,3.5,27,$$,2,49.2554815577035,-123.115322627127
+La Quercia,3689 W 4th Avenue,Italian,4.0,200,$$$,3,49.2687649,-123.1853601
+Indian Fusion Restaurant,2045 Lonsdale Avenue,Indian,4.5,191,$$,2,49.327957,-123.0724116
+La Taqueria Food Truck,,Food Trucks,4.5,7,,0,49.261226,-123.1139268
+Rosemary Cafe,1497 Franklin St,Sandwiches,4.0,1,,0,49.2823952,-123.0742956
+Acquafarina,425 W Georgia Street,Italian,4.0,10,,0,49.28111788947515,-123.11552448888744
+Kitanoya Guu Garlic,1698 Robson Street,Japanese,4.0,16,,0,49.29065,-123.133761
+The Keg Steakhouse + Bar - Granville Island,1499 Anderson St,Steakhouses,3.5,199,$$$,3,49.27129807379498,-123.13585121318752
+Crepe & Cafe,3500 W 41st Avenue,French,3.5,40,$$,2,49.2345954626451,-123.182240724564
+Japadog,8130 Ontario Street,Food Stands,4.0,76,$,1,49.21147,-123.10617
+Haida Sandwich,121 15th Street East,Persian/Iranian,3.5,39,$$,2,49.321793,-123.071199
+Aiyaohno Cafe,425 Carrall Street,Cafes,4.5,5,,0,49.28108,-123.1049
+Troll's,6408 Bay Street,Fish & Chips,3.0,185,$$,2,49.3744603,-123.2745354
+Chefhyve,2525 Kingsway,Fish & Chips,4.5,12,,0,49.240044,-123.0537825
+Trattoria Kitchen,1850 W 4th Avenue,Italian,3.5,311,$$,2,49.2674716476322,-123.146645910264
+The Butcher & Bullock,911 W Pender St,Canadian (New),3.5,109,$$,2,49.28628,-123.1173056
+Big Way Hot Pot,7-4300 Kingsway,Hot Pot,3.5,35,,0,49.23097,-123.00875
+Bbq Chicken,1037 Granville Street,Barbeque,0.0,0,,0,49.2789398,-123.1237695
+Swiss Bakery,143 3rd Avenue E,Bakeries,4.0,122,$,1,49.2683832324201,-123.10165840848
+Ryuu Japanese Kitchen,757 Seymour Street,Japanese,3.5,76,$$,2,49.28104,-123.11816
+Kilimanjaro Snack House and Catering,789 Kingsway,Indian,4.0,23,$$,2,49.2558517,-123.0872116
+Thai Basil,2184 Cornwall Avenue,Thai,3.5,59,$,1,49.2724419,-123.1544571
+Raku Japanese Kitchen,1860 Marine Drive,Japanese,4.5,22,,0,49.32856,-123.16391
+Ho Yuen Kee,6236 Fraser Street,Chinese,3.5,209,$$,2,49.2279399,-123.09029
+Bangkok City Cafe,2953 W 4th Avenue,Thai,4.0,149,$$,2,49.2684919913261,-123.17027069431
+King's Wok,555 W 12th Ave,Chinese,4.0,1,,0,49.26082467067226,-123.11630498617889
+Novella Coffee Bar,2650 Main Street,Breakfast & Brunch,5.0,1,,0,49.261335,-123.100649
+The Gull Bar + Kitchen,175 1st Street E,Bars,4.5,27,,0,49.3106819394397,-123.076079994813
+Salt Tasting Room,45 Blood Alley Square,Wine Bars,4.0,504,$$,2,49.2833019455415,-123.106055259705
+Gyo Para Gyoza & Ramen Bar,2120 W Broadway,Ramen,4.0,97,$$,2,49.2637073656912,-123.153455257416
+The Heatley,696 E Hastings Street,Pubs,3.0,55,$$,2,49.2810155,-123.089733
+Sabra Kosher Bakery & Restaurant,3844 Oak St,Kosher,3.5,21,$$,2,49.2514614,-123.1272741
+Cafe Villaggio,1506 Coal Harbour Quay,Coffee & Tea,3.5,73,$,1,49.29124083739769,-123.12787817649406
+Donky Chicken,363 East Broadway,Chicken Shop,4.0,12,,0,49.2629406,-123.0973575
+Douce Diner,1490 Pemberton Avenue,Diners,4.5,68,,0,49.3218485,-123.1075641
+Daddy's Kitchen,2586 Commercial Drive,Poke,4.0,65,$$,2,49.261521127712,-123.069602362812
+West Oak Restaurant,1035 Mainland Street,Seafood,3.5,258,$$$,3,49.2764158,-123.1195458
+Hachibei Japanese Restaurant,778 16th Avenue W,Japanese,4.0,74,$$,2,49.256899,-123.1215336
+Curry Fusion,542 Robson Street,Indian,4.5,45,$,1,49.2804427,-123.1184283
+CinCin Ristorante + Bar,1154 Robson Street,Italian,4.0,410,$$$,3,49.28516,-123.1263
+Kokomo,2028 Vine Street,Vegetarian,4.5,24,,0,49.267889271995834,-123.1573825
+Thai Away Home,3315 Cambie Street,Thai,3.5,112,$$,2,49.2556512,-123.1153209
+Frankie's Italian Kitchen,765 Beatty Street,Italian,3.5,145,$$,2,49.2779493,-123.1137363
+Trattoria,757 Main Street,Italian,3.0,148,$$,2,49.326811,-123.138093
+Maruhachi Ra-men,2858 Main Street,Ramen,3.5,83,$$,2,49.2595687747717,-123.100885950126
+The Naam,2724 W 4th Avenue,Burgers,3.5,606,$$,2,49.2683459,-123.1670621
+Bar Corso,1556 Commercial Drive,Wine Bars,4.5,3,,0,49.2707051,-123.0694651
+Sylvia's Restaurant and Lounge,1154 Gilford Street,Canadian (New),3.0,86,$$,2,49.28864,-123.14242
+BBQ Chicken,4470 Main Street,Korean,4.5,11,,0,49.2448724,-123.1011006
+Caffe Mira,3136 Main St,Cafes,4.0,25,$,1,49.2568399,-123.10088
+Johnnie Fox's Irish Pub,1601 Main Street,Irish,4.0,115,$$,2,49.27142,-123.10129
+Simba’s Grill,201-3300 Boundary Road,African,4.0,13,$$,2,49.254592042411,-123.023027995894
+Dos Amigos,302 Industrial Avenue,Food Trucks,3.5,5,,0,49.26988240482373,-123.0983276558197
+New Mandarin Seafood Restaurant,4650 Gladstone St,Dim Sum,4.0,199,$$,2,49.2430789410403,-123.062085096174
+Saffron Palace,1471 Bellevue Avenue,Specialty Food,4.0,4,,0,49.3274319282241,-123.156363107264
+Yaletown Brewing Company,1111 Mainland Street,American (Traditional),3.0,456,$$,2,49.2755483,-123.120817
+The Pawn Shop YVR,1117 Granville Street,Desserts,4.0,145,$$,2,49.2781054,-123.1252051
+16 West,140 16th Street W,Wine Bars,3.5,3,,0,49.3232807,-123.0742185
+Kypriaki Mediterranean Grill,1346 Marine Drive,Mediterranean,4.0,51,$$,2,49.32427333932316,-123.11193574416453
+Nonna's Table Cafe & Pizzeria,1489 E Hastings Street,Italian,3.0,29,$$,2,49.2813660649828,-123.074312455088
+Sombreros Mexican Products & Taqueria,1290 Howe Street,Mexican,4.0,30,$$,2,49.2766917,-123.1285811
+Aroma Eatery,1011-4500 Kingsway,Taiwanese,4.5,20,,0,49.228417734136464,-123.00491628393937
+Curry Hut Indian Bistro,445 Howe Street,Indian,5.0,7,,0,49.2858301,-123.1153158
+Soup Zone,555 W 12th Ave,Specialty Food,3.5,10,$$,2,49.26086,-123.11629
+Urban Thai Bistro,5607 Dunbar Street,Thai,4.0,9,,0,49.2355556,-123.1854849
+Daddy's Grill,4020 No 5 Road,Halal,4.5,153,$$,2,49.1842679432228,-123.091404421526
+Nava Creative Kosher Cuisine,950 41st Avenue W,Kosher,4.5,4,$,1,49.233506,-123.125965
+Brazilliant Cafe & Catering,552 Seymour Street,Brazilian,0.0,0,,0,49.283327,-123.114328
+Tonton Sushi,4018 Cambie Street,Japanese,4.0,66,$$,2,49.2497178,-123.115173
+Pizzamia Gourmet Pizza Bar,407 W Broadway,Pizza,4.5,7,,0,49.2633224,-123.1132569
+Pete's Meat Butcher Shop & Deli,2817 Arbutus Street,Butcher,4.0,40,$$,2,49.260860269876,-123.153275036231
+Hem 377,5026 Victoria Drive,Cafes,3.5,19,,0,49.238702288185756,-123.06521393358707
+Ocarina Bar & Lounge,1177 Marinaside Crescent,Lounges,4.0,1,,0,49.2733547,-123.1194983
+Carlino Restaurant,1115 Alberni Street,Italian,3.5,17,,0,49.2859149,-123.124482
+La Buca Restaurant,4025 MacDonald Street,Italian,4.0,61,$$$,3,49.250648,-123.168016
+Tenen,7569 Royal Oak Avenue,Barbeque,4.0,66,$$,2,49.21549,-122.98895
+Wendy's,480 W. 8th Ave.,Fast Food,2.5,51,$,1,49.26368,-123.11455
+Tractor,547 Robson Street,Salad,4.0,78,$$,2,49.2806237171195,-123.118595941751
+Bells and Whistles,4497 Dunbar St,Burgers,3.5,8,,0,49.24616929633417,-123.1856117550114
+Pink Peppercorn Seafood House,1485 Kingsway,Seafood,4.0,139,$$$,3,49.2493583,-123.0739159
+Farsi Food,1480 Pemberton Avenue,Persian/Iranian,4.5,8,,0,49.3217905,-123.1075651
+The Viet Noodle Guy,1902 Rosser Avenue,Vietnamese,4.0,168,$$,2,49.26721987665755,-123.00572763320035
+Corner 23,4008 Cambie Street,Chinese,3.0,128,$$,2,49.24995,-123.11495
+BjornBar Bakery,3053 Edgemont Boulevard,Cafes,4.5,85,$,1,49.3367329007718,-123.100999539816
