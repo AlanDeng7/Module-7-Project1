@@ -14,7 +14,7 @@ From the analysis, conclusions were made for each of the questions asked about t
 ## Git Hub Main 
 -[folder/Code_Alan] (Alan's files)\
 -[folder/Code_Chris] (Chris's files)\
--[folder/Code_Sameer] (Sameer's files)
+-[folder/Code_Sameer] (Sameer's files)\
 -[folder/Data] (Toronto and Vancouver Yelp Data)\
 -[.gitignore] (Prevent personal api keys which are in python scripts from showing)\
 -[Data_Extraction.ipynb] (Data extraction file)\
