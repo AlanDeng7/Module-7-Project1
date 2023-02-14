@@ -5,22 +5,22 @@ proximity to busier areas, restaurant preferences, types of restaurant, and hour
 From the analysis, conclusions were made for each of the questions asked about these two cities. 
 
 ## Table of Contents
--[Git Hub Main]
--[Installing]
--[Getting Started]
--[Contributing]
--[Resources]
+-[Git Hub Main] \
+-[Installing] \
+-[Getting Started] \
+-[Contributing] \
+-[Resources] \
 
 ## Git Hub Main 
--[folder/Code_Alan] (Alan's files)
--[folder/Code_Chris] (Chris's files)
+-[folder/Code_Alan] (Alan's files)\
+-[folder/Code_Chris] (Chris's files)\
 -[folder/Code_Sameer] (Sameer's files)
--[folder/Data] (Toronto and Vancouver Yelp Data)
--[.gitignore] (Prevent personal api keys which are in python scripts from showing)
--[Data_Extraction.ipynb] (Data extraction file)
--[project1-analysis.pdf] (Analysis of questions answered)
--[project1-proposal.pdf] (Proposal)
--[project1-Slides.pdf] (Presentation Slides)
+-[folder/Data] (Toronto and Vancouver Yelp Data)\
+-[.gitignore] (Prevent personal api keys which are in python scripts from showing)\
+-[Data_Extraction.ipynb] (Data extraction file)\
+-[project1-analysis.pdf] (Analysis of questions answered)\
+-[project1-proposal.pdf] (Proposal)\
+-[project1-Slides.pdf] (Presentation Slides)\
 
 ## Installing
 All files in this project were in Jupyter Notebook. 
@@ -32,25 +32,25 @@ The Geoapify API key is also needed in some files, which can be found: https://a
 
 
 ## Getting Started
-Questions that were answered in this project (location of file):
-    -Toronto vs Vancouver: who has better restaurants? (Code_Chris/project_1_visualizations.ipynb)
-    -Does restaurant distance from a landmark addect its rating? (Code_Chris/project_1_visualizations.ipynb)
-    -What type of restaurants do each city have the most of? (Code_Alan/Question2.ipynb)
-    -Do the number of reviews impact the ratings of these restaurants? (Code_Alan/Question2.ipynb)
-    -What unique restaurant options exist in each city? (Code_Sameer/Sameer.ipynb)
-    -From the types of restaurants that exist in both cities, what is preferred in each city? (Code_Sameer/Sameer.ipynb)
+Questions that were answered in this project (location of file):\
+    -Toronto vs Vancouver: who has better restaurants? (Code_Chris/project_1_visualizations.ipynb)\
+    -Does restaurant distance from a landmark addect its rating? (Code_Chris/project_1_visualizations.ipynb)\
+    -What type of restaurants do each city have the most of? (Code_Alan/Question2.ipynb)\
+    -Do the number of reviews impact the ratings of these restaurants? (Code_Alan/Question2.ipynb)\
+    -What unique restaurant options exist in each city? (Code_Sameer/Sameer.ipynb)\
+    -From the types of restaurants that exist in both cities, what is preferred in each city? (Code_Sameer/Sameer.ipynb)\
 
 
 ## Contributing
-Christopher Yang 
-Sameer Zubairi 
-Alan Deng 
-Jacob Evans
+Christopher Yang \
+Sameer Zubairi \
+Alan Deng \
+Jacob Evans\
 
 ## Resources
-Tom Seeber - Instructor 
-Jordan Merritt - Assitance Instructor 
-Stack Overflow
-Yelp
-Geoapify
+Tom Seeber - Instructor \
+Jordan Merritt - Assitance Instructor \
+Stack Overflow\
+Yelp\
+Geoapify\
 
