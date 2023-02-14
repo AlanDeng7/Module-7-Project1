@@ -9,7 +9,7 @@ From the analysis, conclusions were made for each of the questions asked about t
 -[Installing] \
 -[Getting Started] \
 -[Contributing] \
--[Resources] \
+-[Resources] 
 
 ## Git Hub Main 
 -[folder/Code_Alan] (Alan's files)\
@@ -20,7 +20,7 @@ From the analysis, conclusions were made for each of the questions asked about t
 -[Data_Extraction.ipynb] (Data extraction file)\
 -[project1-analysis.pdf] (Analysis of questions answered)\
 -[project1-proposal.pdf] (Proposal)\
--[project1-Slides.pdf] (Presentation Slides)\
+-[project1-Slides.pptx] (Presentation Slides)
 
 ## Installing
 All files in this project were in Jupyter Notebook. 
@@ -38,19 +38,19 @@ Questions that were answered in this project (location of file):\
     -What type of restaurants do each city have the most of? (Code_Alan/Question2.ipynb)\
     -Do the number of reviews impact the ratings of these restaurants? (Code_Alan/Question2.ipynb)\
     -What unique restaurant options exist in each city? (Code_Sameer/Sameer.ipynb)\
-    -From the types of restaurants that exist in both cities, what is preferred in each city? (Code_Sameer/Sameer.ipynb)\
+    -From the types of restaurants that exist in both cities, what is preferred in each city? (Code_Sameer/Sameer.ipynb)
 
 
 ## Contributing
 Christopher Yang \
 Sameer Zubairi \
 Alan Deng \
-Jacob Evans\
+Jacob Evans
 
 ## Resources
 Tom Seeber - Instructor \
 Jordan Merritt - Assitance Instructor \
 Stack Overflow\
 Yelp\
-Geoapify\
+Geoapify
 
