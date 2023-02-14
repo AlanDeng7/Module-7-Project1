@@ -1,0 +1,22 @@
+Question 2: What type of restaurants do each city have the most of/prefer and do the number of reviews impact the ratings of these restaurants?
+
+The null hypothesis: The number of reviews a restaurant has has no impact on the ratings of the restaurant.
+
+After cleaning the data of both Toronto and Vancouver Yelp data, the data was sorted by price range. By doing this, 
+we can see that most of the restaurants in both cities have a price range of two dollar signs($$). 
+After doing some research on the internet, yelp categorises their price range with dollar signs. 
+These dollar signs indicate a price range of the restaurant's menu items: 
+$ = less than 10 dollars, $$ = between 11-30 dollars, $$$ = between 31-60 dollars, and $$$$ = more than 60 dollars.
+
+In both cities most restaurants are in the mid range category of between 11-30 dollars. 
+By cleaning the data even more, the top ten categories of restaurants are used for this analysis. 
+rom the data, we can safely say that Vancouver has the most mid-range Japanese restaurants.
+Where as in Toronto, there are two categories of restaurants, Italian and Japanese. 
+
+From the generated box plots of both cities, we can see that the average number of reviews in Toronto is around 250 and in Vancouver is a little bit below 250.  
+For restaurants that have a rating of 4, both cities have the most amount of reviews within that rating. 
+We can also see that the whiskers of all the boxes within both cities are either in the middle or lower than the median, 
+meaning that most of the restaurants either have around 250 reviews or less. We can also see all the outliers within the data. 
+These outliers that have a lot of reviews and high ratings indicate that these restaurants are very popular within their city. 
+Since both p-values of both cities are greater than 0.1, this means that the evidence for the question
+"Does the number of reviews affect the rating of a restaurant?" is very weak. In conclusion, the number of reviews a restaurant does not affect the rating a restaurant has on Yelp.
